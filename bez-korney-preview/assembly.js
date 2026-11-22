@@ -1,7 +1,7 @@
 (()=>{
  const overlay=document.getElementById('assembly-intro'),main=document.getElementById('page-content');
  const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
- if(overlay&&main){
+ if(overlay&&main&&document.documentElement.classList.contains('intro-pending')){
   // The overlay is visible in the HTML, before deferred scripts or images load.
   main.inert=true;
   document.body.style.overflow='hidden';
@@ -9,9 +9,23 @@
   let stopDrawing;
   const previousOverflow='';
   let closed=false,started=false,playTimer;
+  const wait=window.bezLoadWait;
+  wait?.hide();
+  // Wait only for the first screen and fonts; lazy images must not block entry.
+  const heroImages=[...main.querySelectorAll('#bez-lounge-hero img')];
+  const readyImage=image=>new Promise(resolve=>{if(image.complete)return resolve();image.addEventListener('load',resolve,{once:true});image.addEventListener('error',resolve,{once:true})});
+  let assetsReady=false;
+  const readiness=Promise.all([document.fonts?.ready,...heroImages.map(readyImage)]).then(()=>{assetsReady=true});
+  let readinessTimer;
+  function completeIntro(){
+   if(closed)return;
+   if(assetsReady){finish();return;}
+   wait?.show();
+   Promise.race([readiness,new Promise(resolve=>{readinessTimer=setTimeout(resolve,8000)})]).then(finish);
+  }
   function finish(){
    if(closed)return;closed=true;
-   clearTimeout(playTimer);clearTimeout(safetyTimer);stopDrawing?.();
+   clearTimeout(playTimer);clearTimeout(safetyTimer);clearTimeout(readinessTimer);stopDrawing?.();wait?.hide();wait?.release();
    overlay.classList.add('leaving');main.inert=false;
    document.documentElement.classList.remove('intro-pending');
    setTimeout(()=>{overlay.hidden=true;document.body.style.overflow=previousOverflow;window.dispatchEvent(new Event('intro-finished'))},reduce?0:310);
@@ -21,8 +35,8 @@
    overlay.hidden=false;main.inert=true;document.body.style.overflow='hidden';
    // Four seconds of vector animation, then a 1.5-second final hold.
    clearTimeout(safetyTimer);
-   safetyTimer=setTimeout(finish,9500);
-   playTimer=setTimeout(finish,reduce?1500:5500);
+   safetyTimer=setTimeout(finish,14500);
+   playTimer=setTimeout(completeIntro,reduce?1500:5500);
   }
   let safetyTimer=setTimeout(finish,10000);
   if(!reduce&&window.createBrandIntro){
