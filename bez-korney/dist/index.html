@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="БЕЗ КОРНЕЙ — ателье искусственного озеленения. Озеленяем коммерческие интерьеры и входные зоны.">
+  <title>Искусственное озеленение коммерческих интерьеров — БЕЗ КОРНЕЙ</title>
+  <link rel="icon" type="image/svg+xml" href="bez-mark.svg">
+  <link rel="stylesheet" href="site.css">
+  <script src="intro.js?v=atelier-greening" defer></script>
+  <script src="home.js" defer></script>
+</head>
+<body>
+  <dialog id="brand-intro" class="brand-intro" aria-label="Знакомство с ателье БЕЗ КОРНЕЙ">
+    <img class="brand-intro-image" alt="Из абстрактной растительной формы появляется логотип БЕЗ КОРНЕЙ">
+  </dialog>
+  <header class="header home-header">
+    <a class="brand" href="index.html" aria-label="БЕЗ КОРНЕЙ, главная"><img src="bez-portal-light.svg?v=atelier-greening" alt=""></a>
+    <nav aria-label="Основная навигация">
+      <a href="#studio">О нас</a>
+      <a href="works.html">Работы <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-media" role="group" aria-label="Концептуальные визуализации">
+        <img class="hero-image is-current" src="editorial/architecture.jpg" width="1536" height="1024" alt="Концепция озеленения интерьера: папоротники и крупная листва в низком металлическом кашпо" fetchpriority="high">
+        <img class="hero-image hero-image-entrance" src="editorial/entrance.jpg" width="1122" height="1402" alt="Концепция оформления входа: асимметричная композиция из бордовых цветов вокруг двери" aria-hidden="true" fetchpriority="low">
+        <div class="media-meta">
+          <span>ИИ-визуализации</span>
+          <div class="frame-controls" role="group" aria-label="Управление визуализациями" hidden>
+            <button type="button" data-frame="0" aria-label="Кадр 1, композиция в интерьере" aria-pressed="true">01</button>
+            <button type="button" data-frame="1" aria-label="Кадр 2, композиция у входа" aria-pressed="false">02</button>
+            <button type="button" id="motion-toggle">Пауза</button>
+          </div>
+        </div>
+      </div>
+      <div class="hero-content">
+        <p class="label"><i></i> Ателье искусственного озеленения</p>
+        <h1 id="hero-title">
+          <span>Зелень</span>
+          <span>как часть</span>
+          <span>архитектуры<b>.</b></span>
+        </h1>
+        <p class="hero-lead">Растительные композиции для коммерческих интерьеров и входных зон.</p>
+        <div class="hero-actions">
+          <a href="works.html">Работы <span aria-hidden="true">↗</span></a>
+          <a href="#studio">Познакомимся <span aria-hidden="true">↓</span></a>
+        </div>
+      </div>
+    </section>
+    <section id="studio" class="studio">
+      <div class="studio-copy" data-reveal>
+        <p class="label"><i></i> О нас</p>
+        <h2>Давайте<br>познакомимся<span>.</span></h2>
+        <p>Мы ателье искусственного озеленения. Любим начинать с разговора о месте. Что хочется выделить? Где не хватает уюта? Какое первое впечатление должен создавать вход? Иногда пары фотографий и короткого рассказа хватает, чтобы наметить идею.</p>
+        <a class="plain-link" href="works.html">Посмотреть, что мы уже сделали <span aria-hidden="true">↗</span></a>
+      </div>
+      <figure class="editorial" data-reveal>
+        <img src="editorial/material.jpg" width="1122" height="1402" alt="Бордовый антуриум и тёмная листва рядом с фактурным известняком" loading="lazy">
+        <figcaption><span>БЕЗ КОРНЕЙ / 03</span><span>ИИ-визуализация</span></figcaption>
+      </figure>
+    </section>
+  </main>
+  <footer class="footer">
+    <a class="brand" href="index.html" aria-label="БЕЗ КОРНЕЙ, главная"><img src="bez-portal-dark.svg?v=atelier-greening" alt=""></a>
+    <span>Искусственное озеленение</span>
+    <a href="works.html">Работы ↗</a>
+  </footer>
+</body>
+</html>

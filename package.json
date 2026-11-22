@@ -1,0 +1,10 @@
+{
+  "name": "bez-kornei-offline-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Optional graphics tools; website itself needs no npm packages",
+  "devDependencies": {
+    "@napi-rs/canvas": "0.1.100",
+    "sharp": "0.35.5"
+  }
+}

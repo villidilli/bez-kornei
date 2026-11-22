@@ -1,0 +1,65 @@
+<div id="bez-editorial-test">
+<style>
+#bez-editorial-test .be-page{--paper:#f3f0e9;--ink:#20211d;--accent:#ac3d2e;background:var(--paper);color:var(--ink);font-family:Arial,sans-serif;min-height:630px;padding:28px 38px;box-sizing:border-box}
+#bez-editorial-test .be-page *{box-sizing:border-box}
+#bez-editorial-test .be-brand{font-size:22px;letter-spacing:-1px;border-bottom:1px solid #d8d3c9;padding-bottom:22px}
+#bez-editorial-test .be-brand em{font-style:normal;color:var(--accent)}
+#bez-editorial-test .be-label{font:10px/1.5 Arial,sans-serif;letter-spacing:1.4px;text-transform:uppercase;margin:30px 0 20px}
+#bez-editorial-test h1{font:400 clamp(39px,7.6vw,64px)/.98 Arial,sans-serif;letter-spacing:-2.6px;margin:0}
+#bez-editorial-test h1 span{color:var(--accent)}
+#bez-editorial-test .be-lead{font:19px/1.4 Georgia,serif;max-width:350px;margin:24px 0 10px}
+#bez-editorial-test .be-actions{min-height:190px;display:flex;align-items:center;gap:35px;flex-wrap:wrap}
+#bez-editorial-test .be-cta{position:relative;border:0;background:transparent;color:var(--ink);font:400 34px/1.15 Georgia,serif;letter-spacing:-.8px;text-align:left;padding:20px 0;min-height:82px;max-width:100%}
+#bez-editorial-test .be-cta .be-word{position:relative;display:inline-block}
+#bez-editorial-test .be-word:after{content:'';position:absolute;left:-3px;right:0;bottom:-6px;height:9px;border-bottom:2px solid var(--accent);border-radius:0 0 50% 35%;transform:rotate(-3deg) scaleX(.7);transform-origin:left;transition:transform .45s}
+#bez-editorial-test .be-cta:hover .be-word:after,#bez-editorial-test .be-cta:focus-visible .be-word:after{transform:rotate(-3deg) scaleX(1)}
+#bez-editorial-test .be-arrow{display:inline-block;font:32px Arial,sans-serif;color:var(--accent);margin-left:16px;transition:transform .45s}
+#bez-editorial-test .be-cta:hover .be-arrow{transform:translate(4px,-4px)}
+#bez-editorial-test .be-context{display:block;font:12px/1.5 Arial,sans-serif;letter-spacing:0;margin-top:18px;color:#69645b}
+#bez-editorial-test .be-work{font:13px Arial,sans-serif;color:var(--ink);min-height:44px;display:inline-flex;align-items:center;text-decoration:none;border-bottom:1px solid #a9a295}
+#bez-editorial-test .be-full{font-size:30px;max-width:370px}
+#bez-editorial-test .be-full .be-arrow{position:absolute;right:-8px;bottom:20px}
+#bez-editorial-test .be-full{padding-right:34px}
+#bez-editorial-test .be-circle{width:48px;height:48px;border:1px solid var(--accent);border-radius:50%;display:inline-grid;place-items:center;margin-left:19px;vertical-align:middle;transition:background .35s,color .35s,transform .35s;color:var(--accent);font:29px Arial,sans-serif}
+#bez-editorial-test .be-signed:hover .be-circle,#bez-editorial-test .be-signed:focus-visible .be-circle{background:var(--accent);color:var(--paper);transform:rotate(-8deg)}
+#bez-editorial-test .be-signed{font-size:32px}
+#bez-editorial-test .be-contact{border-top:1px solid #d8d3c9;padding-top:20px;margin-top:4px}
+#bez-editorial-test .be-contact p{font:19px/1.4 Georgia,serif;margin:0 0 10px;max-width:420px}
+#bez-editorial-test .be-contact a{display:inline-block;color:var(--ink);font:22px Arial,sans-serif;padding:8px 0;text-decoration:none}
+#bez-editorial-test [hidden]{display:none!important}
+@media(max-width:480px){#bez-editorial-test .be-page{padding:24px;min-height:730px}#bez-editorial-test h1{font-size:40px;letter-spacing:-1.8px}#bez-editorial-test .be-lead{font-size:18px}#bez-editorial-test .be-actions{min-height:250px;flex-direction:column;align-items:flex-start;justify-content:center;gap:17px}#bez-editorial-test .be-cta{font-size:30px}#bez-editorial-test .be-full{font-size:28px}#bez-editorial-test .be-signed{font-size:28px}#bez-editorial-test .be-circle{width:44px;height:44px;margin-left:10px}}
+@media(prefers-reduced-motion:reduce){#bez-editorial-test *,#bez-editorial-test *:after{transition:none!important}}
+</style>
+<div class="viz-carousel" aria-label="Редакционная пометка: понятность действия" data-previous-label="Назад" data-next-label="Далее">
+<section data-variant="Пометка со стрелкой">
+ <div class="be-page" aria-label="Пометка со стрелкой">
+ <div class="be-brand">БЕЗ<em>К</em>ОРНЕЙ</div><p class="be-label">Ателье искусственного озеленения</p>
+ <h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1>
+ <p class="be-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+ <div class="be-actions"><button class="be-cta cursor-interaction" aria-expanded="false" aria-controls="be-contact-a" type="button"><span class="be-word">Обсудим?</span><span class="be-arrow" aria-hidden="true">↗</span><span class="be-context">Выберите удобный способ связи</span></button><a class="be-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a></div>
+ <div class="be-contact" id="be-contact-a" hidden><p>Расскажите о пространстве и о том, что хочется изменить.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+ </div>
+</section>
+<section data-variant="Полное приглашение" hidden>
+ <div class="be-page" aria-label="Полное приглашение">
+ <div class="be-brand">БЕЗ<em>К</em>ОРНЕЙ</div><p class="be-label">Ателье искусственного озеленения</p>
+ <h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1>
+ <p class="be-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+ <div class="be-actions"><button class="be-cta be-full cursor-interaction" aria-expanded="false" aria-controls="be-contact-b" type="button">Обсудим ваше<br><span class="be-word">пространство?</span><span class="be-arrow" aria-hidden="true">↗</span></button><a class="be-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a></div>
+ <div class="be-contact" id="be-contact-b" hidden><p>Расскажите о пространстве и о том, что хочется изменить.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+ </div>
+</section>
+<section data-variant="Пометка с круглым знаком" hidden>
+ <div class="be-page" aria-label="Пометка с круглым знаком">
+ <div class="be-brand">БЕЗ<em>К</em>ОРНЕЙ</div><p class="be-label">Ателье искусственного озеленения</p>
+ <h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1>
+ <p class="be-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+ <div class="be-actions"><button class="be-cta be-signed cursor-interaction" aria-expanded="false" aria-controls="be-contact-c" type="button"><span class="be-word">Обсудим?</span><span class="be-circle" aria-hidden="true">↗</span><span class="be-context">Ваше пространство. Ваши пожелания.</span></button><a class="be-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a></div>
+ <div class="be-contact" id="be-contact-c" hidden><p>Расскажите о пространстве и о том, что хочется изменить.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+ </div>
+</section>
+</div>
+<script>
+(function(){const root=document.getElementById('bez-editorial-test');root.querySelectorAll('.be-cta').forEach(button=>button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')!=='true';button.setAttribute('aria-expanded',String(open));root.querySelector('#'+button.getAttribute('aria-controls')).hidden=!open;}));if(globalThis.Tweak){root.querySelectorAll('.be-page').forEach(page=>{const state={accent:'#ac3d2e'};const tweak=new Tweak({container:page,onChange:()=>page.style.setProperty('--accent',state.accent)});tweak.addColorPicker(state,'accent',{label:'Цвет пометки'});});}})();
+</script>
+</div>

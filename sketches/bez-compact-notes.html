@@ -1,0 +1,62 @@
+<div id="bez-compact-notes">
+<style>
+#bez-compact-notes .bc-page{--paper:#f3f0e9;--ink:#20211d;--red:#ac3d2e;background:var(--paper);color:var(--ink);font-family:Arial,sans-serif;padding:28px 36px;min-height:590px;box-sizing:border-box}
+#bez-compact-notes .bc-page *{box-sizing:border-box}
+#bez-compact-notes .bc-brand{font:22px Arial,sans-serif;letter-spacing:-1px;border-bottom:1px solid #d8d3c9;padding-bottom:22px}
+#bez-compact-notes .bc-brand em{font-style:normal;color:var(--red)}
+#bez-compact-notes .bc-label{font:10px/1.5 Arial,sans-serif;text-transform:uppercase;letter-spacing:1.4px;margin:30px 0 20px}
+#bez-compact-notes h1{font:400 clamp(39px,7.6vw,64px)/.98 Arial,sans-serif;letter-spacing:-2.6px;margin:0}
+#bez-compact-notes h1 span{color:var(--red)}
+#bez-compact-notes .bc-lead{font:19px/1.4 Georgia,serif;max-width:350px;margin:24px 0 30px}
+#bez-compact-notes .bc-actions{min-height:95px;display:flex;align-items:center;gap:38px;flex-wrap:wrap}
+#bez-compact-notes .bc-cta{position:relative;display:inline-flex;align-items:center;gap:15px;padding:12px 0;min-height:52px;border:0;background:transparent;color:var(--ink);font:400 29px/1.1 Georgia,serif;white-space:nowrap;letter-spacing:-.7px}
+#bez-compact-notes .bc-word{position:relative;display:inline-block}
+#bez-compact-notes .bc-arrow{color:var(--red);font:24px Arial,sans-serif;display:inline-block;transition:transform .45s}
+#bez-compact-notes .bc-pencil .bc-word:after{content:'';position:absolute;left:0;right:0;bottom:-6px;height:9px;border-bottom:1.5px solid var(--red);border-radius:0 0 45% 50%;transform:rotate(-3deg) scaleX(.7);transform-origin:left;transition:transform .45s}
+#bez-compact-notes .bc-pencil .bc-arrow{align-self:flex-start;font-size:20px;margin-top:1px}
+#bez-compact-notes .bc-pencil:hover .bc-word:after,#bez-compact-notes .bc-pencil:focus-visible .bc-word:after{transform:rotate(-3deg) scaleX(1)}
+#bez-compact-notes .bc-pencil:hover .bc-arrow{transform:translate(3px,-3px)}
+#bez-compact-notes .bc-stamp{gap:12px}
+#bez-compact-notes .bc-stamp .bc-word{font-style:italic}
+#bez-compact-notes .bc-seal{display:grid;place-items:center;position:relative;width:42px;height:42px;flex-shrink:0;color:var(--paper);font:23px Arial,sans-serif;isolation:isolate}
+#bez-compact-notes .bc-seal:before{content:'';position:absolute;inset:0;border-radius:48% 52% 45% 55%;background:var(--red);z-index:-1;transform:rotate(-15deg);transition:transform .45s,border-radius .45s}
+#bez-compact-notes .bc-stamp:hover .bc-seal:before,#bez-compact-notes .bc-stamp:focus-visible .bc-seal:before{transform:rotate(20deg);border-radius:50%}
+#bez-compact-notes .bc-seal span{transition:transform .45s}
+#bez-compact-notes .bc-stamp:hover .bc-seal span{transform:translate(2px,-2px)}
+#bez-compact-notes .bc-line{padding-right:40px;padding-bottom:17px}
+#bez-compact-notes .bc-line:after{content:'';position:absolute;bottom:6px;left:0;right:4px;height:10px;border-bottom:1.5px solid var(--red);border-radius:0 0 40% 15%;transform:rotate(-2deg);transition:transform .45s}
+#bez-compact-notes .bc-line .bc-end{position:absolute;width:11px;height:11px;right:1px;bottom:4px;border-right:1.5px solid var(--red);border-top:1.5px solid var(--red);transform:rotate(38deg);transition:transform .45s}
+#bez-compact-notes .bc-line:hover:after,#bez-compact-notes .bc-line:focus-visible:after{transform:rotate(-4deg) translateY(-2px)}
+#bez-compact-notes .bc-line:hover .bc-end{transform:rotate(30deg) translate(0,-4px)}
+#bez-compact-notes .bc-work{font:13px Arial,sans-serif;color:var(--ink);text-decoration:none;display:inline-flex;align-items:center;min-height:44px;border-bottom:1px solid #aaa295}
+#bez-compact-notes .bc-contact{border-top:1px solid #d8d3c9;margin-top:20px;padding-top:20px}
+#bez-compact-notes .bc-contact p{font:18px/1.4 Georgia,serif;max-width:420px;margin:0 0 9px}
+#bez-compact-notes .bc-contact a{font:22px Arial,sans-serif;color:var(--ink);text-decoration:none;display:inline-block;padding:8px 0}
+#bez-compact-notes [hidden]{display:none!important}
+@media(max-width:480px){#bez-compact-notes .bc-page{padding:24px;min-height:660px}#bez-compact-notes h1{font-size:40px;letter-spacing:-1.8px}#bez-compact-notes .bc-lead{font-size:18px}#bez-compact-notes .bc-actions{flex-direction:column;align-items:flex-start;gap:18px;min-height:140px}#bez-compact-notes .bc-cta{font-size:28px}}
+@media(prefers-reduced-motion:reduce){#bez-compact-notes *,#bez-compact-notes *:after,#bez-compact-notes *:before{transition:none!important}}
+</style>
+<div class="viz-carousel" aria-label="Компактные редакционные приглашения" data-previous-label="Назад" data-next-label="Далее">
+<section data-variant="Карандашная пометка"><div class="bc-page" aria-label="Карандашная пометка">
+ <div class="bc-brand">БЕЗ<em>К</em>ОРНЕЙ</div><p class="bc-label">Ателье искусственного озеленения</p>
+ <h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1><p class="bc-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+ <div class="bc-actions"><button class="bc-cta bc-pencil cursor-interaction" type="button" aria-expanded="false" aria-controls="bc-contact-a"><span class="bc-word">Обсудим?</span><span class="bc-arrow" aria-hidden="true">↗</span></button><a class="bc-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a></div>
+ <div id="bc-contact-a" class="bc-contact" hidden><p>Расскажите, что хочется изменить в вашем пространстве.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+</div></section>
+<section data-variant="Подпись и печать" hidden><div class="bc-page" aria-label="Подпись и печать">
+ <div class="bc-brand">БЕЗ<em>К</em>ОРНЕЙ</div><p class="bc-label">Ателье искусственного озеленения</p>
+ <h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1><p class="bc-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+ <div class="bc-actions"><button class="bc-cta bc-stamp cursor-interaction" type="button" aria-expanded="false" aria-controls="bc-contact-b"><span class="bc-word">Обсудим?</span><span class="bc-seal" aria-hidden="true"><span>↗</span></span></button><a class="bc-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a></div>
+ <div id="bc-contact-b" class="bc-contact" hidden><p>Расскажите, что хочется изменить в вашем пространстве.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+</div></section>
+<section data-variant="Строка со стрелкой" hidden><div class="bc-page" aria-label="Строка со стрелкой">
+ <div class="bc-brand">БЕЗ<em>К</em>ОРНЕЙ</div><p class="bc-label">Ателье искусственного озеленения</p>
+ <h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1><p class="bc-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+ <div class="bc-actions"><button class="bc-cta bc-line cursor-interaction" type="button" aria-expanded="false" aria-controls="bc-contact-c"><span>Обсудим?</span><span class="bc-end" aria-hidden="true"></span></button><a class="bc-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a></div>
+ <div id="bc-contact-c" class="bc-contact" hidden><p>Расскажите, что хочется изменить в вашем пространстве.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+</div></section>
+</div>
+<script>
+(function(){const root=document.getElementById('bez-compact-notes');root.querySelectorAll('.bc-cta').forEach(button=>button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')!=='true';button.setAttribute('aria-expanded',String(open));root.querySelector('#'+button.getAttribute('aria-controls')).hidden=!open;}));if(globalThis.Tweak){root.querySelectorAll('.bc-page').forEach(page=>{const state={accent:'#ac3d2e'};const tweak=new Tweak({container:page,onChange:()=>page.style.setProperty('--red',state.accent)});tweak.addColorPicker(state,'accent',{label:'Цвет акцента'});});}})();
+</script>
+</div>

@@ -1,0 +1,21 @@
+<svg viewBox="40 30 430 79" role="img" aria-label="БЕЗ КОРНЕЙ" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#181916" stroke-width="3.4" stroke-linecap="butt" stroke-linejoin="round">
+    <g transform="translate(43 57)"><g class="first-word"><path d="M2 48V0H32 M2 22H20C30 22 35 27 35 35S30 48 20 48H2" transform="translate(0 0)"/>
+<path d="M33 0H2V48H33 M2 23H28" transform="translate(47 0)"/>
+<path d="M3 5C8 1 13 0 20 0 29 0 34 5 34 11 34 18 29 23 19 23H14 M19 23C29 23 36 27 36 35 36 44 28 48 19 48 12 48 6 46 1 42" transform="translate(94 0)"/></g></g>
+    <g transform="translate(190 57)"><g class="last-word"><g class="letter-k" stroke="#a63325">
+  <path class="k-stem" d="M2 0V48"/>
+  <path class="k-arms" d="M2 25H10L33 0 M10 25L35 48"/>
+</g>
+<path d="M21 0C33 0 40 9 40 24S33 48 21 48 2 39 2 24 9 0 21 0Z" transform="translate(47 0)"/>
+<path d="M2 48V0H20C30 0 36 5 36 14S30 28 20 28H2" transform="translate(98 0)"/>
+<path d="M2 0V48 M36 0V48 M2 23H36" transform="translate(145 0)"/>
+<path d="M33 0H2V48H33 M2 23H28" transform="translate(192 0)"/>
+<g transform="translate(236 0)">
+      <path d="M2 0V48L37 0V48"/>
+      <path d="M5 -9C7 -20 19 -25 34 -24C31 -13 22 -5 5 -9Z" fill="#a63325" stroke="none"/>
+      <path d="M8 -10Q20 -15 31 -22" stroke="#f3f0e9" stroke-width="1.2" stroke-linecap="round"/>
+      <path d="M15 -13L15 -17 M19 -15L24 -14 M24 -18L25 -21" stroke="#f3f0e9" stroke-width=".95" stroke-linecap="round"/>
+    </g></g></g>
+  </g>
+</svg>

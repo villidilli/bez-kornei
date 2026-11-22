@@ -1,0 +1,66 @@
+<div id="bez-leaf-reshape">
+<style>
+#bez-leaf-reshape .bl-page{--paper:#f3f0e9;--ink:#20211d;--red:#ac3d2e;--leaf:#e3dfd3;background:var(--paper);color:var(--ink);padding:28px 38px 30px;min-height:650px;font-family:Arial,sans-serif;box-sizing:border-box}
+#bez-leaf-reshape .bl-page *{box-sizing:border-box}
+#bez-leaf-reshape .bl-brand{font:22px Arial,sans-serif;letter-spacing:-1px;border-bottom:1px solid #d8d3c9;padding-bottom:22px}
+#bez-leaf-reshape .bl-brand em{font-style:normal;color:var(--red)}
+#bez-leaf-reshape .bl-label{font:10px/1.5 Arial,sans-serif;letter-spacing:1.4px;text-transform:uppercase;margin:30px 0 20px}
+#bez-leaf-reshape h1{font:400 clamp(39px,7.6vw,64px)/.98 Arial,sans-serif;letter-spacing:-2.6px;margin:0}
+#bez-leaf-reshape h1 span{color:var(--red)}
+#bez-leaf-reshape .bl-lead{font:19px/1.4 Georgia,serif;max-width:350px;margin:24px 0 26px}
+#bez-leaf-reshape .bl-actions{display:flex;align-items:center;flex-wrap:wrap;gap:40px;min-height:153px}
+#bez-leaf-reshape .bl-invite{--mx:0px;--my:0px;position:relative;isolation:isolate;display:grid;place-items:center;width:204px;height:130px;flex-shrink:0;border:0;background:transparent;color:var(--ink);padding:0;font:italic 400 26px/1 Georgia,serif;letter-spacing:-.5px;touch-action:manipulation}
+#bez-leaf-reshape .bl-shape,#bez-leaf-reshape .bl-contour{position:absolute;pointer-events:none;width:174px;height:93px;left:15px;top:19px;z-index:-1;transition:transform .65s cubic-bezier(.2,.8,.2,1),border-radius .65s cubic-bezier(.2,.8,.2,1);border-radius:62% 25% 57% 36% / 58% 34% 65% 42%}
+#bez-leaf-reshape .bl-shape{background:var(--leaf);transform:translate(var(--mx),var(--my)) rotate(-8deg)}
+#bez-leaf-reshape .bl-contour{border:1px solid var(--red);transform:translate(calc(var(--mx) * -.5),calc(var(--my) * -.5)) rotate(9deg);border-radius:45% 54% 39% 61% / 60% 39% 61% 40%}
+#bez-leaf-reshape .bl-text{position:relative;pointer-events:none;display:inline-block}
+#bez-leaf-reshape .bl-small-arrow{position:absolute;right:-16px;top:-7px;font:15px Arial,sans-serif;color:var(--red)}
+#bez-leaf-reshape .bl-invite:hover .bl-shape,#bez-leaf-reshape .bl-invite:focus-visible .bl-shape,#bez-leaf-reshape .bl-invite.is-touch .bl-shape{border-radius:75% 7% 70% 28% / 70% 17% 77% 30%;transform:translate(var(--mx),var(--my)) rotate(-12deg)}
+#bez-leaf-reshape .bl-invite:hover .bl-contour,#bez-leaf-reshape .bl-invite:focus-visible .bl-contour,#bez-leaf-reshape .bl-invite.is-touch .bl-contour{border-radius:70% 9% 65% 30% / 66% 22% 72% 35%;transform:translate(calc(var(--mx) * -.5),calc(var(--my) * -.5)) rotate(4deg) scale(1.06)}
+#bez-leaf-reshape .bl-solid{--leaf:var(--red)}
+#bez-leaf-reshape .bl-solid .bl-invite{color:var(--paper)}
+#bez-leaf-reshape .bl-solid .bl-small-arrow{color:var(--paper)}
+#bez-leaf-reshape .bl-solid .bl-contour{border-color:var(--red);transform:translate(-4px,3px) rotate(13deg) scale(1.08);opacity:.7}
+#bez-leaf-reshape .bl-work{font:13px Arial,sans-serif;color:var(--ink);min-height:44px;display:inline-flex;align-items:center;text-decoration:none;border-bottom:1px solid #aaa295}
+#bez-leaf-reshape .bl-contact{border-top:1px solid #d8d3c9;padding-top:20px;margin-top:18px}
+#bez-leaf-reshape .bl-contact p{font:18px/1.4 Georgia,serif;margin:0 0 10px;max-width:430px}
+#bez-leaf-reshape .bl-contact a{display:inline-block;font:22px Arial,sans-serif;color:var(--ink);text-decoration:none;padding:8px 0}
+#bez-leaf-reshape [hidden]{display:none!important}
+@media(max-width:480px){#bez-leaf-reshape .bl-page{padding:24px;min-height:720px}#bez-leaf-reshape h1{font-size:40px;letter-spacing:-1.8px}#bez-leaf-reshape .bl-lead{font-size:18px}#bez-leaf-reshape .bl-actions{gap:8px;align-items:flex-start;flex-direction:column;min-height:200px}}
+@media(prefers-reduced-motion:reduce){#bez-leaf-reshape *,#bez-leaf-reshape *:after{transition:none!important}}
+</style>
+<div class="viz-carousel" aria-label="Абстрактный лист с магнитным движением" data-previous-label="Назад" data-next-label="Далее">
+<section data-variant="Светлый лист">
+ <div class="bl-page" aria-label="Светлый лист">
+ <div class="bl-brand">БЕЗ<em>К</em>ОРНЕЙ</div><p class="bl-label">Ателье искусственного озеленения</p>
+ <h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1><p class="bl-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+ <div class="bl-actions"><button type="button" class="bl-invite cursor-interaction" aria-expanded="false" aria-controls="bl-light-contact"><span class="bl-shape" aria-hidden="true"></span><span class="bl-contour" aria-hidden="true"></span><span class="bl-text">Обсудим?<span class="bl-small-arrow" aria-hidden="true">↗</span></span></button><a class="bl-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a></div>
+ <div id="bl-light-contact" class="bl-contact" hidden><p>Расскажите, что хочется изменить в вашем пространстве.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+ </div>
+</section>
+<section data-variant="Терракотовый лист" hidden>
+ <div class="bl-page bl-solid" aria-label="Терракотовый лист">
+ <div class="bl-brand">БЕЗ<em>К</em>ОРНЕЙ</div><p class="bl-label">Ателье искусственного озеленения</p>
+ <h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1><p class="bl-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+ <div class="bl-actions"><button type="button" class="bl-invite cursor-interaction" aria-expanded="false" aria-controls="bl-red-contact"><span class="bl-shape" aria-hidden="true"></span><span class="bl-contour" aria-hidden="true"></span><span class="bl-text">Обсудим?<span class="bl-small-arrow" aria-hidden="true">↗</span></span></button><a class="bl-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a></div>
+ <div id="bl-red-contact" class="bl-contact" hidden><p>Расскажите, что хочется изменить в вашем пространстве.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+ </div>
+</section>
+</div>
+<script>
+(function(){
+const root=document.getElementById('bez-leaf-reshape');
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+root.querySelectorAll('.bl-page').forEach(page=>{
+ const button=page.querySelector('.bl-invite');const state={strength:6,accent:'#ac3d2e'};
+ const reset=()=>{button.style.setProperty('--mx','0px');button.style.setProperty('--my','0px');};
+ button.addEventListener('pointermove',event=>{if(event.pointerType!=='mouse'||reduced.matches)return;const rect=button.getBoundingClientRect();const x=(event.clientX-rect.left)/rect.width-.5;const y=(event.clientY-rect.top)/rect.height-.5;button.style.setProperty('--mx',(x*state.strength*2).toFixed(2)+'px');button.style.setProperty('--my',(y*state.strength*2).toFixed(2)+'px');});
+ button.addEventListener('pointerleave',reset);
+ button.addEventListener('blur',reset);
+ button.addEventListener('pointerdown',event=>{if(event.pointerType!=='mouse'){button.classList.add('is-touch');setTimeout(()=>button.classList.remove('is-touch'),500);}});
+ button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')!=='true';button.setAttribute('aria-expanded',String(open));root.querySelector('#'+button.getAttribute('aria-controls')).hidden=!open;});
+ if(globalThis.Tweak){const tweak=new Tweak({container:page,onChange:()=>{page.style.setProperty('--red',state.accent);reset();}});tweak.addSlider(state,'strength',{label:'Магнитность',min:0,max:12,step:1,unit:'px'});tweak.addColorPicker(state,'accent',{label:'Цвет акцента'});}
+});
+})();
+</script>
+</div>

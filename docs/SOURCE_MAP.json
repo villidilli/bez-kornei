@@ -1,0 +1,1362 @@
+[
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\bez-light.svg",
+    "archive": "bez-korney\\bez-light.svg",
+    "sha256": "930ceecab02d867a4039f65926e5e62929917a3018c1d18a3ca20197de5e2a70"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\bez-line.svg",
+    "archive": "bez-korney\\bez-line.svg",
+    "sha256": "527814d084964973726cdcab6388d972366d500168946f03f24ddef74cbca73b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\bez-mark.svg",
+    "archive": "bez-korney\\bez-mark.svg",
+    "sha256": "bb77de1b59866d2295934853934e8faa0e526d802d5a943bfd041cb6f4a5f7d1"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\bez-portal-dark.svg",
+    "archive": "bez-korney\\bez-portal-dark.svg",
+    "sha256": "7d08afda9d66d8bdb58462bfdd824a35c8f4a81548adf2a447aee97d6531fa33"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\bez-portal-light.svg",
+    "archive": "bez-korney\\bez-portal-light.svg",
+    "sha256": "9da4af7c603674e5214aed9e5e00ce23c888d3dd2bcb3f3d7b8af232707069c5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\brand-reveal.gif",
+    "archive": "bez-korney\\brand-reveal.gif",
+    "sha256": "78d477e7c66070dab3f7f8f0a76c3dde8e07ae6fcb470780737b712c4eef2495"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\home.js",
+    "archive": "bez-korney\\home.js",
+    "sha256": "69758a55362f470ce3ea47a3a56534e66fcc82768564c5a87c85ce41a89d125f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\image-briefs.md",
+    "archive": "bez-korney\\image-briefs.md",
+    "sha256": "98fd01203212215e4724872af53b3764dca3242e67d98a4ac7e6451f06042dbe"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\index.html",
+    "archive": "bez-korney\\index.html",
+    "sha256": "df2787b4176d02c46dd4b30fd8bd1fc6265d0c44bfc995178dc3b366e9c2a48f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\intro.js",
+    "archive": "bez-korney\\intro.js",
+    "sha256": "25eb4fb7e7fe9ba557f444d01031429677982d53f68e75507817197d42e40b7c"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\site.css",
+    "archive": "bez-korney\\site.css",
+    "sha256": "7ba1646693c53b9b6d9807e7afae660c5ce991672cc1f1a88d44ead206c2f6c7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\works.html",
+    "archive": "bez-korney\\works.html",
+    "sha256": "3f4b46a7855a03c16b968ef2ac5ef744a4b7502acf631ae11ad86ad37865201f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\works.js",
+    "archive": "bez-korney\\works.js",
+    "sha256": "06d840098053214c13da5b67baaf3bc8fb803584d8f1b39b0d51e665efba6435"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\.openai\\hosting.json",
+    "archive": "bez-korney\\.openai\\hosting.json",
+    "sha256": "d4efa4e2f173f43bea538ce09c0d8dd49878680f690e517028a539190e98bb3a"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\bez-mark.svg",
+    "archive": "bez-korney\\dist\\bez-mark.svg",
+    "sha256": "bb77de1b59866d2295934853934e8faa0e526d802d5a943bfd041cb6f4a5f7d1"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\bez-portal-dark.svg",
+    "archive": "bez-korney\\dist\\bez-portal-dark.svg",
+    "sha256": "7d08afda9d66d8bdb58462bfdd824a35c8f4a81548adf2a447aee97d6531fa33"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\bez-portal-light.svg",
+    "archive": "bez-korney\\dist\\bez-portal-light.svg",
+    "sha256": "9da4af7c603674e5214aed9e5e00ce23c888d3dd2bcb3f3d7b8af232707069c5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\brand-reveal.gif",
+    "archive": "bez-korney\\dist\\brand-reveal.gif",
+    "sha256": "78d477e7c66070dab3f7f8f0a76c3dde8e07ae6fcb470780737b712c4eef2495"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\home.js",
+    "archive": "bez-korney\\dist\\home.js",
+    "sha256": "69758a55362f470ce3ea47a3a56534e66fcc82768564c5a87c85ce41a89d125f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\index.html",
+    "archive": "bez-korney\\dist\\index.html",
+    "sha256": "df2787b4176d02c46dd4b30fd8bd1fc6265d0c44bfc995178dc3b366e9c2a48f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\intro.js",
+    "archive": "bez-korney\\dist\\intro.js",
+    "sha256": "25eb4fb7e7fe9ba557f444d01031429677982d53f68e75507817197d42e40b7c"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\site.css",
+    "archive": "bez-korney\\dist\\site.css",
+    "sha256": "7ba1646693c53b9b6d9807e7afae660c5ce991672cc1f1a88d44ead206c2f6c7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\works.html",
+    "archive": "bez-korney\\dist\\works.html",
+    "sha256": "3f4b46a7855a03c16b968ef2ac5ef744a4b7502acf631ae11ad86ad37865201f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\works.js",
+    "archive": "bez-korney\\dist\\works.js",
+    "sha256": "06d840098053214c13da5b67baaf3bc8fb803584d8f1b39b0d51e665efba6435"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\editorial\\architecture.jpg",
+    "archive": "bez-korney\\editorial\\architecture.jpg",
+    "sha256": "8ee8bd0b9faf6cd736eea23c84a8df5611b77855b653aa2e0cbda1ab0c4bd2f2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\editorial\\entrance.jpg",
+    "archive": "bez-korney\\editorial\\entrance.jpg",
+    "sha256": "618864d710c5b5699f8ac59a171a8d0edc6e2b91f6fe6d7e4d962e4ae69502a5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\editorial\\material.jpg",
+    "archive": "bez-korney\\editorial\\material.jpg",
+    "sha256": "dd086e1e21038a577d6091c952a016a69dbd56bd452092a0b6ba5cd6228d9576"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\arch-wide.jpg",
+    "archive": "bez-korney\\photos\\arch-wide.jpg",
+    "sha256": "bc8a88d6477ae36ca44fe307c8711db4ad32d7ec2602f66c9fd714b7eedd46e5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\arch.jpg",
+    "archive": "bez-korney\\photos\\arch.jpg",
+    "sha256": "f57404e437ce6a659d51cffa1c6fbcac70c308c88d55ce4ae46ee1bbc1328f51"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\planter.jpg",
+    "archive": "bez-korney\\photos\\planter.jpg",
+    "sha256": "42f44965af57239f40ee1cd1c2a0334a41e85a7dd92b0e6f81786cb7111bedaf"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\seating-close-retouched.png",
+    "archive": "bez-korney\\photos\\seating-close-retouched.png",
+    "sha256": "19fd5d353f3f3f1e15a51f0873c4518972a2e434275f665baef00bab9a85d547"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\seating-close.jpg",
+    "archive": "bez-korney\\photos\\seating-close.jpg",
+    "sha256": "ba0ba1340a55aee4ccf48c50cfb85b48b9b8e5162f72191c438d1902b818f664"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\seating-detail.jpg",
+    "archive": "bez-korney\\photos\\seating-detail.jpg",
+    "sha256": "7529a596f9b091998d48d83e2cc3f3bbea9c161f9587bbec5861f1d65ba74ee7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\seating.jpg",
+    "archive": "bez-korney\\photos\\seating.jpg",
+    "sha256": "1f10eecedd47dab0c39818b8cd27a55e59c9fdfa81e817caca67531cdae501c4"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\wall-clean.png",
+    "archive": "bez-korney\\photos\\wall-clean.png",
+    "sha256": "7ae88bbd79ccea2760f94fcc072834e4d275797dca94ddd1c940a8a26535b447"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\wall-detail.jpg",
+    "archive": "bez-korney\\photos\\wall-detail.jpg",
+    "sha256": "bc7d0b33291a3d1a4230dff9095b7956e9d58c89eedc2d210d6d36227438301d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\wall.jpg",
+    "archive": "bez-korney\\photos\\wall.jpg",
+    "sha256": "d47c749252187df6350ed8ea54bbd48ed0ba25180fea826c5c1a07694b2f4b2d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\photos\\window.jpg",
+    "archive": "bez-korney\\photos\\window.jpg",
+    "sha256": "1e5c15c99875f641df7d13b985201cd985b73a5c426b1e5ba1347e761010079b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\editorial\\architecture.jpg",
+    "archive": "bez-korney\\dist\\editorial\\architecture.jpg",
+    "sha256": "8ee8bd0b9faf6cd736eea23c84a8df5611b77855b653aa2e0cbda1ab0c4bd2f2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\editorial\\entrance.jpg",
+    "archive": "bez-korney\\dist\\editorial\\entrance.jpg",
+    "sha256": "618864d710c5b5699f8ac59a171a8d0edc6e2b91f6fe6d7e4d962e4ae69502a5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\editorial\\material.jpg",
+    "archive": "bez-korney\\dist\\editorial\\material.jpg",
+    "sha256": "dd086e1e21038a577d6091c952a016a69dbd56bd452092a0b6ba5cd6228d9576"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\arch-wide.jpg",
+    "archive": "bez-korney\\dist\\photos\\arch-wide.jpg",
+    "sha256": "bc8a88d6477ae36ca44fe307c8711db4ad32d7ec2602f66c9fd714b7eedd46e5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\arch.jpg",
+    "archive": "bez-korney\\dist\\photos\\arch.jpg",
+    "sha256": "f57404e437ce6a659d51cffa1c6fbcac70c308c88d55ce4ae46ee1bbc1328f51"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\planter.jpg",
+    "archive": "bez-korney\\dist\\photos\\planter.jpg",
+    "sha256": "42f44965af57239f40ee1cd1c2a0334a41e85a7dd92b0e6f81786cb7111bedaf"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\seating-close.jpg",
+    "archive": "bez-korney\\dist\\photos\\seating-close.jpg",
+    "sha256": "ba0ba1340a55aee4ccf48c50cfb85b48b9b8e5162f72191c438d1902b818f664"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\seating-detail.jpg",
+    "archive": "bez-korney\\dist\\photos\\seating-detail.jpg",
+    "sha256": "7529a596f9b091998d48d83e2cc3f3bbea9c161f9587bbec5861f1d65ba74ee7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\seating.jpg",
+    "archive": "bez-korney\\dist\\photos\\seating.jpg",
+    "sha256": "1f10eecedd47dab0c39818b8cd27a55e59c9fdfa81e817caca67531cdae501c4"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\wall-detail.jpg",
+    "archive": "bez-korney\\dist\\photos\\wall-detail.jpg",
+    "sha256": "bc7d0b33291a3d1a4230dff9095b7956e9d58c89eedc2d210d6d36227438301d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\wall.jpg",
+    "archive": "bez-korney\\dist\\photos\\wall.jpg",
+    "sha256": "d47c749252187df6350ed8ea54bbd48ed0ba25180fea826c5c1a07694b2f4b2d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney\\dist\\photos\\window.jpg",
+    "archive": "bez-korney\\dist\\photos\\window.jpg",
+    "sha256": "1e5c15c99875f641df7d13b985201cd985b73a5c426b1e5ba1347e761010079b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assembly.css",
+    "archive": "bez-korney-preview\\assembly.css",
+    "sha256": "8460dee843f952d400f34b7a0f8a3aa1fc45e00e5437b64321d0bb1ac5f0613d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assembly.js",
+    "archive": "bez-korney-preview\\assembly.js",
+    "sha256": "cef854a1eb1229189299fadcb20cc2b8c458a57e3077a7f85a73c5dece424b60"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\index.html",
+    "archive": "bez-korney-preview\\index.html",
+    "sha256": "9f849d21672154d168b7a477abba7246cb9067897f876978479f3e7526ebad69"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\0b7f23312f337fd7.jpg",
+    "archive": "bez-korney-preview\\assets\\0b7f23312f337fd7.jpg",
+    "sha256": "0b7f23312f337fd7a5f412c512f29080e4df3d1fb4e134a4556fa4089d8796f2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\3344ba28f2257590.jpg",
+    "archive": "bez-korney-preview\\assets\\3344ba28f2257590.jpg",
+    "sha256": "3344ba28f22575902e00669bb1694d72d7426ecfcfc8a37484e7e749aa3ddaf8"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\4435c9a57e165a1c.svg",
+    "archive": "bez-korney-preview\\assets\\4435c9a57e165a1c.svg",
+    "sha256": "4435c9a57e165a1c3b7f27e0b5b11b82b10d674ea4fff7f6748cb67b7fcb994e"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\4f20835f56f15542.png",
+    "archive": "bez-korney-preview\\assets\\4f20835f56f15542.png",
+    "sha256": "4f20835f56f15542e3c77139f3cdd8f188f41b4053f06a2d88d8be1b054aea61"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\5f33683b4603ad12.jpg",
+    "archive": "bez-korney-preview\\assets\\5f33683b4603ad12.jpg",
+    "sha256": "5f33683b4603ad125c216adec39f702da15af0855550742535bd6f21f76d3f29"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\78a2a9eb7991a968.jpg",
+    "archive": "bez-korney-preview\\assets\\78a2a9eb7991a968.jpg",
+    "sha256": "78a2a9eb7991a96823c35442ecfcff56627fa6be4bd1d5729d0907a38f936c15"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\7d08afda9d66d8bd.svg",
+    "archive": "bez-korney-preview\\assets\\7d08afda9d66d8bd.svg",
+    "sha256": "7d08afda9d66d8bdb58462bfdd824a35c8f4a81548adf2a447aee97d6531fa33"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\82371b5c389e96d1.jpg",
+    "archive": "bez-korney-preview\\assets\\82371b5c389e96d1.jpg",
+    "sha256": "82371b5c389e96d1de51047df7925c11fffd8e6cbb53a02e6e51e19db590d031"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\87da6d2d91d0ea53.jpg",
+    "archive": "bez-korney-preview\\assets\\87da6d2d91d0ea53.jpg",
+    "sha256": "87da6d2d91d0ea53dad6028820904784d816f5a9c596593c84c73b6f766611de"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\9da4af7c603674e5.svg",
+    "archive": "bez-korney-preview\\assets\\9da4af7c603674e5.svg",
+    "sha256": "9da4af7c603674e5214aed9e5e00ce23c888d3dd2bcb3f3d7b8af232707069c5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\bc7d0b33291a3d1a.jpg",
+    "archive": "bez-korney-preview\\assets\\bc7d0b33291a3d1a.jpg",
+    "sha256": "bc7d0b33291a3d1a4230dff9095b7956e9d58c89eedc2d210d6d36227438301d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\brand-reveal.gif",
+    "archive": "bez-korney-preview\\assets\\brand-reveal.gif",
+    "sha256": "ae4d3f609f53120ba2f7f458eaaf781e36871d75b1375df372e57446290fe2c1"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\f031899f1e989388.jpg",
+    "archive": "bez-korney-preview\\assets\\f031899f1e989388.jpg",
+    "sha256": "f031899f1e989388bf0dd37ee8919585513543d651996caa72fe76939c8d0b5c"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-preview\\assets\\ff4377974c1529b8.jpg",
+    "archive": "bez-korney-preview\\assets\\ff4377974c1529b8.jpg",
+    "sha256": "ff4377974c1529b8bf4f366827a794773065e58e0cf6b415544fc38443e3604a"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\bez-line.svg",
+    "archive": "studio-concepts\\bez-line.svg",
+    "sha256": "527814d084964973726cdcab6388d972366d500168946f03f24ddef74cbca73b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\bez-mark.svg",
+    "archive": "studio-concepts\\bez-mark.svg",
+    "sha256": "bb77de1b59866d2295934853934e8faa0e526d802d5a943bfd041cb6f4a5f7d1"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\bez-mono.svg",
+    "archive": "studio-concepts\\bez-mono.svg",
+    "sha256": "e019a3fe863dd0532beae9e5934b3bf0e56087f75c30754232947f4ce2b0e038"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\bez-stack.svg",
+    "archive": "studio-concepts\\bez-stack.svg",
+    "sha256": "e61da18547b2354ad9fc5e6aec01c89261eaf7b92b814ea2f749f8c08fc680a4"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\index.html",
+    "archive": "studio-concepts\\index.html",
+    "sha256": "f6042634ccefbc4048b2f2b7446558cad2cb07f7df4bce8b30517df6572df8b8"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\logos.html",
+    "archive": "studio-concepts\\logos.html",
+    "sha256": "78c08e21f9a028bbc97afcb96b3776f5798267392f72b466f442f347ed93b5cf"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\nesezon-line.svg",
+    "archive": "studio-concepts\\nesezon-line.svg",
+    "sha256": "257019fd1a90fe2b55e8c52e29dcd153185dd810f9bc611e77c622646901504f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\nesezon-mark.svg",
+    "archive": "studio-concepts\\nesezon-mark.svg",
+    "sha256": "026d98849875b8672cc355c743f6c2a22193172acb63d7a83bf9e3bcee5c5b24"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\nesezon-mono.svg",
+    "archive": "studio-concepts\\nesezon-mono.svg",
+    "sha256": "94b6be0bcd3f54ee98b96fcac614144af382b0b6582c525fc2ea72f44120d2d9"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\site.js",
+    "archive": "studio-concepts\\site.js",
+    "sha256": "7486f371b1e62b5b6ef66adaf72bee4bd5fad2d8d5571b23d36924cba1af2c19"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\style.css",
+    "archive": "studio-concepts\\style.css",
+    "sha256": "73f9eb47d06e42b8efbf7fc9cff3585864450b06b5fc7460e178e0981cad7f62"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\arch-install.jpg",
+    "archive": "studio-concepts\\photos\\arch-install.jpg",
+    "sha256": "955caae4dc3ea4178f618054e96ac950f676fc071efd0acb285ad82add513150"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\arch-wide.jpg",
+    "archive": "studio-concepts\\photos\\arch-wide.jpg",
+    "sha256": "bc8a88d6477ae36ca44fe307c8711db4ad32d7ec2602f66c9fd714b7eedd46e5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\arch.jpg",
+    "archive": "studio-concepts\\photos\\arch.jpg",
+    "sha256": "f57404e437ce6a659d51cffa1c6fbcac70c308c88d55ce4ae46ee1bbc1328f51"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\planter.jpg",
+    "archive": "studio-concepts\\photos\\planter.jpg",
+    "sha256": "42f44965af57239f40ee1cd1c2a0334a41e85a7dd92b0e6f81786cb7111bedaf"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\seating-close.jpg",
+    "archive": "studio-concepts\\photos\\seating-close.jpg",
+    "sha256": "ba0ba1340a55aee4ccf48c50cfb85b48b9b8e5162f72191c438d1902b818f664"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\seating-detail.jpg",
+    "archive": "studio-concepts\\photos\\seating-detail.jpg",
+    "sha256": "7529a596f9b091998d48d83e2cc3f3bbea9c161f9587bbec5861f1d65ba74ee7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\seating.jpg",
+    "archive": "studio-concepts\\photos\\seating.jpg",
+    "sha256": "1f10eecedd47dab0c39818b8cd27a55e59c9fdfa81e817caca67531cdae501c4"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\wall-detail.jpg",
+    "archive": "studio-concepts\\photos\\wall-detail.jpg",
+    "sha256": "bc7d0b33291a3d1a4230dff9095b7956e9d58c89eedc2d210d6d36227438301d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\wall.jpg",
+    "archive": "studio-concepts\\photos\\wall.jpg",
+    "sha256": "d47c749252187df6350ed8ea54bbd48ed0ba25180fea826c5c1a07694b2f4b2d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\studio-concepts\\photos\\window.jpg",
+    "archive": "studio-concepts\\photos\\window.jpg",
+    "sha256": "1e5c15c99875f641df7d13b985201cd985b73a5c426b1e5ba1347e761010079b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\bez-light.svg",
+    "archive": "archive\\publish-snapshot\\bez-light.svg",
+    "sha256": "930ceecab02d867a4039f65926e5e62929917a3018c1d18a3ca20197de5e2a70"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\bez-line.svg",
+    "archive": "archive\\publish-snapshot\\bez-line.svg",
+    "sha256": "527814d084964973726cdcab6388d972366d500168946f03f24ddef74cbca73b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\bez-mark.svg",
+    "archive": "archive\\publish-snapshot\\bez-mark.svg",
+    "sha256": "bb77de1b59866d2295934853934e8faa0e526d802d5a943bfd041cb6f4a5f7d1"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\bez-portal-dark.svg",
+    "archive": "archive\\publish-snapshot\\bez-portal-dark.svg",
+    "sha256": "7d08afda9d66d8bdb58462bfdd824a35c8f4a81548adf2a447aee97d6531fa33"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\bez-portal-light.svg",
+    "archive": "archive\\publish-snapshot\\bez-portal-light.svg",
+    "sha256": "9da4af7c603674e5214aed9e5e00ce23c888d3dd2bcb3f3d7b8af232707069c5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\brand-reveal.gif",
+    "archive": "archive\\publish-snapshot\\brand-reveal.gif",
+    "sha256": "78d477e7c66070dab3f7f8f0a76c3dde8e07ae6fcb470780737b712c4eef2495"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\home.js",
+    "archive": "archive\\publish-snapshot\\home.js",
+    "sha256": "69758a55362f470ce3ea47a3a56534e66fcc82768564c5a87c85ce41a89d125f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\image-briefs.md",
+    "archive": "archive\\publish-snapshot\\image-briefs.md",
+    "sha256": "98fd01203212215e4724872af53b3764dca3242e67d98a4ac7e6451f06042dbe"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\index.html",
+    "archive": "archive\\publish-snapshot\\index.html",
+    "sha256": "df2787b4176d02c46dd4b30fd8bd1fc6265d0c44bfc995178dc3b366e9c2a48f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\intro.js",
+    "archive": "archive\\publish-snapshot\\intro.js",
+    "sha256": "25eb4fb7e7fe9ba557f444d01031429677982d53f68e75507817197d42e40b7c"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\site.css",
+    "archive": "archive\\publish-snapshot\\site.css",
+    "sha256": "7ba1646693c53b9b6d9807e7afae660c5ce991672cc1f1a88d44ead206c2f6c7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\works.html",
+    "archive": "archive\\publish-snapshot\\works.html",
+    "sha256": "3f4b46a7855a03c16b968ef2ac5ef744a4b7502acf631ae11ad86ad37865201f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\works.js",
+    "archive": "archive\\publish-snapshot\\works.js",
+    "sha256": "06d840098053214c13da5b67baaf3bc8fb803584d8f1b39b0d51e665efba6435"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\.openai\\hosting.json",
+    "archive": "archive\\publish-snapshot\\.openai\\hosting.json",
+    "sha256": "d4efa4e2f173f43bea538ce09c0d8dd49878680f690e517028a539190e98bb3a"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\bez-mark.svg",
+    "archive": "archive\\publish-snapshot\\dist\\bez-mark.svg",
+    "sha256": "bb77de1b59866d2295934853934e8faa0e526d802d5a943bfd041cb6f4a5f7d1"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\bez-portal-dark.svg",
+    "archive": "archive\\publish-snapshot\\dist\\bez-portal-dark.svg",
+    "sha256": "7d08afda9d66d8bdb58462bfdd824a35c8f4a81548adf2a447aee97d6531fa33"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\bez-portal-light.svg",
+    "archive": "archive\\publish-snapshot\\dist\\bez-portal-light.svg",
+    "sha256": "9da4af7c603674e5214aed9e5e00ce23c888d3dd2bcb3f3d7b8af232707069c5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\brand-reveal.gif",
+    "archive": "archive\\publish-snapshot\\dist\\brand-reveal.gif",
+    "sha256": "78d477e7c66070dab3f7f8f0a76c3dde8e07ae6fcb470780737b712c4eef2495"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\home.js",
+    "archive": "archive\\publish-snapshot\\dist\\home.js",
+    "sha256": "69758a55362f470ce3ea47a3a56534e66fcc82768564c5a87c85ce41a89d125f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\index.html",
+    "archive": "archive\\publish-snapshot\\dist\\index.html",
+    "sha256": "df2787b4176d02c46dd4b30fd8bd1fc6265d0c44bfc995178dc3b366e9c2a48f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\intro.js",
+    "archive": "archive\\publish-snapshot\\dist\\intro.js",
+    "sha256": "25eb4fb7e7fe9ba557f444d01031429677982d53f68e75507817197d42e40b7c"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\site.css",
+    "archive": "archive\\publish-snapshot\\dist\\site.css",
+    "sha256": "7ba1646693c53b9b6d9807e7afae660c5ce991672cc1f1a88d44ead206c2f6c7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\works.html",
+    "archive": "archive\\publish-snapshot\\dist\\works.html",
+    "sha256": "3f4b46a7855a03c16b968ef2ac5ef744a4b7502acf631ae11ad86ad37865201f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\works.js",
+    "archive": "archive\\publish-snapshot\\dist\\works.js",
+    "sha256": "06d840098053214c13da5b67baaf3bc8fb803584d8f1b39b0d51e665efba6435"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\editorial\\architecture.jpg",
+    "archive": "archive\\publish-snapshot\\editorial\\architecture.jpg",
+    "sha256": "8ee8bd0b9faf6cd736eea23c84a8df5611b77855b653aa2e0cbda1ab0c4bd2f2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\editorial\\entrance.jpg",
+    "archive": "archive\\publish-snapshot\\editorial\\entrance.jpg",
+    "sha256": "618864d710c5b5699f8ac59a171a8d0edc6e2b91f6fe6d7e4d962e4ae69502a5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\editorial\\material.jpg",
+    "archive": "archive\\publish-snapshot\\editorial\\material.jpg",
+    "sha256": "dd086e1e21038a577d6091c952a016a69dbd56bd452092a0b6ba5cd6228d9576"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\arch-wide.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\arch-wide.jpg",
+    "sha256": "bc8a88d6477ae36ca44fe307c8711db4ad32d7ec2602f66c9fd714b7eedd46e5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\arch.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\arch.jpg",
+    "sha256": "f57404e437ce6a659d51cffa1c6fbcac70c308c88d55ce4ae46ee1bbc1328f51"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\planter.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\planter.jpg",
+    "sha256": "42f44965af57239f40ee1cd1c2a0334a41e85a7dd92b0e6f81786cb7111bedaf"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\seating-close.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\seating-close.jpg",
+    "sha256": "ba0ba1340a55aee4ccf48c50cfb85b48b9b8e5162f72191c438d1902b818f664"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\seating-detail.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\seating-detail.jpg",
+    "sha256": "7529a596f9b091998d48d83e2cc3f3bbea9c161f9587bbec5861f1d65ba74ee7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\seating.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\seating.jpg",
+    "sha256": "1f10eecedd47dab0c39818b8cd27a55e59c9fdfa81e817caca67531cdae501c4"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\wall-detail.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\wall-detail.jpg",
+    "sha256": "bc7d0b33291a3d1a4230dff9095b7956e9d58c89eedc2d210d6d36227438301d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\wall.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\wall.jpg",
+    "sha256": "d47c749252187df6350ed8ea54bbd48ed0ba25180fea826c5c1a07694b2f4b2d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\photos\\window.jpg",
+    "archive": "archive\\publish-snapshot\\photos\\window.jpg",
+    "sha256": "1e5c15c99875f641df7d13b985201cd985b73a5c426b1e5ba1347e761010079b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\editorial\\architecture.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\editorial\\architecture.jpg",
+    "sha256": "8ee8bd0b9faf6cd736eea23c84a8df5611b77855b653aa2e0cbda1ab0c4bd2f2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\editorial\\entrance.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\editorial\\entrance.jpg",
+    "sha256": "618864d710c5b5699f8ac59a171a8d0edc6e2b91f6fe6d7e4d962e4ae69502a5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\editorial\\material.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\editorial\\material.jpg",
+    "sha256": "dd086e1e21038a577d6091c952a016a69dbd56bd452092a0b6ba5cd6228d9576"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\arch-wide.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\arch-wide.jpg",
+    "sha256": "bc8a88d6477ae36ca44fe307c8711db4ad32d7ec2602f66c9fd714b7eedd46e5"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\arch.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\arch.jpg",
+    "sha256": "f57404e437ce6a659d51cffa1c6fbcac70c308c88d55ce4ae46ee1bbc1328f51"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\planter.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\planter.jpg",
+    "sha256": "42f44965af57239f40ee1cd1c2a0334a41e85a7dd92b0e6f81786cb7111bedaf"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\seating-close.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\seating-close.jpg",
+    "sha256": "ba0ba1340a55aee4ccf48c50cfb85b48b9b8e5162f72191c438d1902b818f664"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\seating-detail.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\seating-detail.jpg",
+    "sha256": "7529a596f9b091998d48d83e2cc3f3bbea9c161f9587bbec5861f1d65ba74ee7"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\seating.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\seating.jpg",
+    "sha256": "1f10eecedd47dab0c39818b8cd27a55e59c9fdfa81e817caca67531cdae501c4"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\wall-detail.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\wall-detail.jpg",
+    "sha256": "bc7d0b33291a3d1a4230dff9095b7956e9d58c89eedc2d210d6d36227438301d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\wall.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\wall.jpg",
+    "sha256": "d47c749252187df6350ed8ea54bbd48ed0ba25180fea826c5c1a07694b2f4b2d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-publish\\dist\\photos\\window.jpg",
+    "archive": "archive\\publish-snapshot\\dist\\photos\\window.jpg",
+    "sha256": "1e5c15c99875f641df7d13b985201cd985b73a5c426b1e5ba1347e761010079b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-brand-symbols-check.png",
+    "archive": "sketches/bez-brand-symbols-check.png",
+    "sha256": "bca95fec1bedc4cc2f6f0e4d441ec3dea41c394212cd0010c097c81cab57a716"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-brand-symbols.html",
+    "archive": "sketches/bez-brand-symbols.html",
+    "sha256": "89187e4bfacac886225a385c1d4c3098298d4d04267fb21e82fba57117ca0c74"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-compact-notes.html",
+    "archive": "sketches/bez-compact-notes.html",
+    "sha256": "299e62c21219c61f474d6fd7dce8c9541f21d0c942b01cb4c369b8c8c1047426"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-contacts.html",
+    "archive": "sketches/bez-contacts.html",
+    "sha256": "983456824855a382b6d78395145952bdffd4e631a0f2d79f3ebbe58a25033a31"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-cost-factors.html",
+    "archive": "sketches/bez-cost-factors.html",
+    "sha256": "ef8abecb7a05e2fe7bde1226eb323e361190dcf8c1d572cb1118cd207e25f4b2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-design-partners.html",
+    "archive": "sketches/bez-design-partners.html",
+    "sha256": "bb4b64755c8ec8d8c62c5ab4e85af4fd08b498b046f399bdbbd4b39385a81b0e"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-directions-check.png",
+    "archive": "sketches/bez-directions-check.png",
+    "sha256": "4294bb2edecc7e146e54144ff0ec01000818be789a7a60a655c31b1b4b60375f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-editorial-invitations.html",
+    "archive": "sketches/bez-editorial-invitations.html",
+    "sha256": "433a3fc7a0566b6b43829e3f9fd92b9f1932d62e4df7f68ef9cbef2c92c2ece2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-gif-check-0.png",
+    "archive": "sketches/bez-gif-check-0.png",
+    "sha256": "542b370549b41b9f09f1c560ee17ccf79067bfe3d9746dc71ca6db5912f0b206"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-gif-check-1.png",
+    "archive": "sketches/bez-gif-check-1.png",
+    "sha256": "1735c8ba8291084a96bbd7753e87dba0a71ba96064b0c342facde423b139fce8"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-gif-check-2.png",
+    "archive": "sketches/bez-gif-check-2.png",
+    "sha256": "e6d7324d3152418ae74a840d8d057fcf8f9513690e7b3c93ee4410a2a14e480d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-gif-check-3.png",
+    "archive": "sketches/bez-gif-check-3.png",
+    "sha256": "a7d1e5843f26e0a890ef9f987f89c86516beb2da0523de097eb3f7cf374f6050"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-horizontal-roots.html",
+    "archive": "sketches/bez-horizontal-roots.html",
+    "sha256": "b7932395f3650b152dd15020f6bb2242bfe48a8b67ef516f02bad1c265de855a"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-invitation-concepts.html",
+    "archive": "sketches/bez-invitation-concepts.html",
+    "sha256": "81f0ed9586dbad75d54c8c41bcef18c54d1b3b8b58014c9b3cd7a175903e95ac"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-author-vertical.png",
+    "archive": "sketches/bez-k-author-vertical.png",
+    "sha256": "7fb75f5e576545463c48a14e471337b55188f3c5694a216aad42deb1b4864d9e"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-mark.png",
+    "archive": "sketches/bez-k-mark.png",
+    "sha256": "2c573d2ff3bede3e322b09a6cad5cbeff3ab16695ae2b8f31641b5578fc05c6a"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-refinement-1.png",
+    "archive": "sketches/bez-k-refinement-1.png",
+    "sha256": "6f2716690352fe750099ee2e9cf4add46c8f1c74d5d3be9152b2d8fe2d7ce8c9"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-refinement-2.png",
+    "archive": "sketches/bez-k-refinement-2.png",
+    "sha256": "74496eae7081160c7255fc930911e04619953da2d7418d416cd4b8bf793ba2f3"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-refinement-3.png",
+    "archive": "sketches/bez-k-refinement-3.png",
+    "sha256": "63c707a246ef04d8a401c74112d509045688a83f4babad2969cf2669167b1a54"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-refinements.png",
+    "archive": "sketches/bez-k-refinements.png",
+    "sha256": "8dd0590b4b76f22debd5adf3a025402a0c060c690bf7c59d985d22a7f6b3b9a2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-terracotta-rotated.png",
+    "archive": "sketches/bez-k-terracotta-rotated.png",
+    "sha256": "abc6ee0b0fc599c175656e32ffbf95dd55857e8cb96c316c9dff3426fd78d9bb"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-terracotta-upright.png",
+    "archive": "sketches/bez-k-terracotta-upright.png",
+    "sha256": "f80382c4c59e82ff982723b847352fa30c5fac0d00ef758d78a348a0c42b8ae8"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-k-vertical-word.png",
+    "archive": "sketches/bez-k-vertical-word.png",
+    "sha256": "076e61b12d2c6772c02c2efee9609993a8adf64b82d81bb916eec920167ed245"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-logo-motion.html",
+    "archive": "sketches/bez-korney-logo-motion.html",
+    "sha256": "ba8151930a479bf3c87f86102fa9bc4f6b3267914c1f50711b557b22c338c516"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-logo-revisions.html",
+    "archive": "sketches/bez-korney-logo-revisions.html",
+    "sha256": "cfcc39b979f7cb918c5e65a3e37ee5f839df90535ac998d6624a03a70c72b505"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-portal-letter-k.html",
+    "archive": "sketches/bez-korney-portal-letter-k.html",
+    "sha256": "03dd68ab991b05e8e082e5b52c5fc5fe363b693295c3c0427a8c8103e20b65f3"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-korney-portal-refined.html",
+    "archive": "sketches/bez-korney-portal-refined.html",
+    "sha256": "b15b71c208cf81cdda6769c93d39fa53a713efefa95f3068226bf5c77188dde0"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-leaf-center-check.png",
+    "archive": "sketches/bez-leaf-center-check.png",
+    "sha256": "f126a8dddd48f4410a51bb1e68eb045309a17283dbbc07dd4ea29b3eab7a78ff"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-leaf-reshape.html",
+    "archive": "sketches/bez-leaf-reshape.html",
+    "sha256": "7aace930b9a7dcada557abdfac4704b697e45d74d04d3550ee794211318e4e48"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-leaf-tilted-check.png",
+    "archive": "sketches/bez-leaf-tilted-check.png",
+    "sha256": "4841c6e9e03e8f0d35cd3803e64ff3771a8087674cad9cee431bc56d229c2abe"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-lounge-hero.html",
+    "archive": "sketches/bez-lounge-hero.html",
+    "sha256": "1ce6556cca27b480821994d0f8132ae858503a5ddba7a05412505ac232600971"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-lounge-neutral-v2.jpg",
+    "archive": "sketches/bez-lounge-neutral-v2.jpg",
+    "sha256": "0b7f23312f337fd7a5f412c512f29080e4df3d1fb4e134a4556fa4089d8796f2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-merch-k.png",
+    "archive": "sketches/bez-merch-k.png",
+    "sha256": "f95a3fe4279cba0675d009cb5dc862b3eb49847d30a916934e299874f7ad87ba"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-merch-marks.html",
+    "archive": "sketches/bez-merch-marks.html",
+    "sha256": "5ccd71674be83ca534492a4b8eaaf3e6e2dcadc5840b234b7d386432074cffb2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-merch-roots.png",
+    "archive": "sketches/bez-merch-roots.png",
+    "sha256": "39a9af6b2824e32173f5bef14bac5c56348bde5a9813077d69fa983b69da0ed2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-messengers-snippet.html",
+    "archive": "sketches/bez-messengers-snippet.html",
+    "sha256": "a2cd4dbb1a0f126517a235e5b94533bf23396a38dedec4f41c9b603b976c2523"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-new-directions.html",
+    "archive": "sketches/bez-new-directions.html",
+    "sha256": "4720dc6dc8ca60c5ea4fd0fece9bae1f614c8225ba0aa47d291d564cf447a00a"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-open-invitation.html",
+    "archive": "sketches/bez-open-invitation.html",
+    "sha256": "431dd2b59185540925bf65ea6db0d2d4c6aed5c903bd255d68cee73b604cfc30"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-portal-base.svg",
+    "archive": "sketches/bez-portal-base.svg",
+    "sha256": "d76646a4d2512794642b1990df257221f8d06312eaf78cb0e891d2ba3d316a95"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-process.html",
+    "archive": "sketches/bez-process.html",
+    "sha256": "9551ece80904abd51c59e8fb075b8f04aa96d4574b8f618916fb3e23b23f9f3c"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-questions.html",
+    "archive": "sketches/bez-questions.html",
+    "sha256": "a8a381e909fda999129eaeaa0fd2113629c869bd8955efd4980f94914fa62d7e"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-reshape-brand.html",
+    "archive": "sketches/bez-reshape-brand.html",
+    "sha256": "36bc72acc7e0baea1e2d4b38fb70fb7279e38632232ab494035d1e510516812c"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-reshape-original.html",
+    "archive": "sketches/bez-reshape-original.html",
+    "sha256": "4e787bb92ab289cf0b29395cce46048d10bb110eaec584b0eadd20e29f4d9148"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-root-base-contour.json",
+    "archive": "sketches/bez-root-base-contour.json",
+    "sha256": "60fa672ec5b17393423e5aa4ac44b0931ef7dd61be33a132cec9fc1fef8d4cb1"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-root-icon-check.png",
+    "archive": "sketches/bez-root-icon-check.png",
+    "sha256": "54d553d64e4263ddcb62917b71950ea1a9f020a8b3c626e07a290e5b07d679bd"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-root-source-contour.json",
+    "archive": "sketches/bez-root-source-contour.json",
+    "sha256": "5bcefdeb85668b8bd86485733743958ad817ae894dc1d3d952e8ec05bd153470"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-roots-curved-check.png",
+    "archive": "sketches/bez-roots-curved-check.png",
+    "sha256": "af63239faa6795de7f2d426ee68ca4559a467554c4e1482a065ada27ef5ee650"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-roots-no-rule.html",
+    "archive": "sketches/bez-roots-no-rule.html",
+    "sha256": "cec0993afaf4e7565221463884d195bcf74e1d869e3e906c9e38630be56fea52"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-roots-reference-check.png",
+    "archive": "sketches/bez-roots-reference-check.png",
+    "sha256": "052e1325859820f0de41ff87cac482b1f86082fc7a9eda7e642d7a2c717ee40a"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-roots-reveal.html",
+    "archive": "sketches/bez-roots-reveal.html",
+    "sha256": "e6138c14c7aec1d673c806704517748538eb705b69e5ad93000990f67c072747"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-selected-works.html",
+    "archive": "sketches/bez-selected-works.html",
+    "sha256": "a78e2b470dd0b3a9f0ecfc242ef4ebad5d03bed900bd13a550d653b761cc0693"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-soft-reshape.html",
+    "archive": "sketches/bez-soft-reshape.html",
+    "sha256": "0e629c0d20ac70643513cf4bc355411156760e64c102216c72dcc1489a5eac69"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-why-artificial.html",
+    "archive": "sketches/bez-why-artificial.html",
+    "sha256": "bdf7fb7029fc2ecbc8e627013f690b7fd0ad4a305f9115d5ffeae30c9ed38e5f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-word-root-base-check.png",
+    "archive": "sketches/bez-word-root-base-check.png",
+    "sha256": "997f33a587862f5ef122f139d96bf7a7a9ab3e52dc15b9c3a22016920a51ca22"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-word-root-base.html",
+    "archive": "sketches/bez-word-root-base.html",
+    "sha256": "d5284d77e741ae7f866f956a608e8d24bba16bdd7abd8d7bfd24937066515a15"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\bez-wordmark-fonts.html",
+    "archive": "sketches/bez-wordmark-fonts.html",
+    "sha256": "2e4181adbf53973be4ad859a97e34ae546bee968d1a622cf5f33dd6466dc43b2"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\contact.jpg",
+    "archive": "sketches/contact.jpg",
+    "sha256": "0eae9386e60a16059f9154cc3139c2052d2afe355bec9d94776c0f7ea763269b"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\encode-approved-gif.py",
+    "archive": "sketches/encode-approved-gif.py",
+    "sha256": "ae48080c7ce3aca6637f6497abe4993f23404b8dfc7d3f099a204f78b3083bc3"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\IBMPlexMono-Light.ttf",
+    "archive": "sketches/IBMPlexMono-Light.ttf",
+    "sha256": "feca3787130b6e71a0edb1cfc17c2ae7780443888554207a8981de43ef755d36"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\max-logo.png",
+    "archive": "sketches/max-logo.png",
+    "sha256": "4f20835f56f15542e3c77139f3cdd8f188f41b4053f06a2d88d8be1b054aea61"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\render-approved-gif.cjs",
+    "archive": "sketches/render-approved-gif.cjs",
+    "sha256": "349b968b8866206a89b2cafb9da12675b76703b10612ea20ad91e588ca6ca573"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\render-bez-brand.cjs",
+    "archive": "sketches/render-bez-brand.cjs",
+    "sha256": "a8c2f5275e4934cf0bac90e74c6b820054055465f42fcca5115cc56ec653b856"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\render-k-refinements.cjs",
+    "archive": "sketches/render-k-refinements.cjs",
+    "sha256": "834081047adc7eb6ef596e38794eec1d5ee9ad56baff338f9295eacfeb727bfe"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\telegram-logo.svg",
+    "archive": "sketches/telegram-logo.svg",
+    "sha256": "147fd8f8923e7e5f463fe98c0eb9913bead6b2ae59935728cda141002ec8a7c9"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\trace-root-base.py",
+    "archive": "sketches/trace-root-base.py",
+    "sha256": "8a0e416c0e4e12af3561c047a21e32ff3f64e3863f51479e7b82e1f6f277121d"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\visualizations\\2026\\11\\10\\01a1c758-004f-78d2-8a32-fc66360aa836\\trace-root-contour.py",
+    "archive": "sketches/trace-root-contour.py",
+    "sha256": "7f5942bcd81ef4f566ad078a1ebcf81f9bb73d1b1530b84127870d3d78aa5649"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\AGENTS.md",
+    "archive": "docs/original/AGENTS.md",
+    "sha256": "81986c1c2a8ccdc20a4e3d81a778ab0d7b3f01a6825892235d37db55afbfbee3"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-contacts.md",
+    "archive": "docs/original/bez-korney-contacts.md",
+    "sha256": "c2f384c2996a50ab8524e595ce1bada5fdb9fd700789af695a3368b3530cf3ad"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\assemble-preview.py",
+    "archive": "docs/original/assemble-preview.py",
+    "sha256": "b90a9698637fd9154a14bf57c7eb08fbfd013507f1e35033cd0a957653323b43"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-approved-animation.gif",
+    "archive": "bez-korney-approved-animation.gif",
+    "sha256": "ae4d3f609f53120ba2f7f458eaaf781e36871d75b1375df372e57446290fe2c1"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\Documents\\ChatGPT\\Бизнес\\bez-korney-brand-reveal.gif",
+    "archive": "bez-korney-brand-reveal.gif",
+    "sha256": "78d477e7c66070dab3f7f8f0a76c3dde8e07ae6fcb470780737b712c4eef2495"
+  },
+  {
+    "source": "D:\\TEMP2\\IMG_8192.MOV",
+    "archive": "media\\originals\\IMG_8192.MOV",
+    "sha256": "87335d41db751ca20be2d14b7820879b80d0370d80b91a98b780d340d37e7c62"
+  },
+  {
+    "source": "D:\\TEMP2\\IMG_8194.MOV",
+    "archive": "media\\originals\\IMG_8194.MOV",
+    "sha256": "f458c77df8b81c8ea8290bce34461e0aee75a7eb2b9cac5f73080e5681ebdce8"
+  },
+  {
+    "source": "D:\\TEMP2\\IMG_8197.MOV",
+    "archive": "media\\originals\\IMG_8197.MOV",
+    "sha256": "6f2e0ee79543c3b9463d4e3377b94fece932632fa93b105a7d607a16e1820e0e"
+  },
+  {
+    "source": "D:\\TEMP2\\IMG_8198.MOV",
+    "archive": "media\\originals\\IMG_8198.MOV",
+    "sha256": "329793112663ac35f330f643c118fb8e5778268b5e4abb5de3d68ecf81aab9ea"
+  },
+  {
+    "source": "D:\\TEMP2\\IMG_8199.MOV",
+    "archive": "media\\originals\\IMG_8199.MOV",
+    "sha256": "db987e230f027c638c9cbecc12b6753fd3c041aa667defc32df2095f5b31e7d9"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5325624233339593228_y.jpg",
+    "archive": "media\\originals\\photo_5325624233339593228_y.jpg",
+    "sha256": "f57404e437ce6a659d51cffa1c6fbcac70c308c88d55ce4ae46ee1bbc1328f51"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5325624233339593230_y.jpg",
+    "archive": "media\\originals\\photo_5325624233339593230_y.jpg",
+    "sha256": "955caae4dc3ea4178f618054e96ac950f676fc071efd0acb285ad82add513150"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5325624233339593232_y.jpg",
+    "archive": "media\\originals\\photo_5325624233339593232_y.jpg",
+    "sha256": "9a7a02678ebd4a88c11726ba300f47a99ce6abe628213b6b18ea93aa9bc821a0"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5325624233339593233_y.jpg",
+    "archive": "media\\originals\\photo_5325624233339593233_y.jpg",
+    "sha256": "bc8a88d6477ae36ca44fe307c8711db4ad32d7ec2602f66c9fd714b7eedd46e5"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5411345428311119987_y.jpg",
+    "archive": "media\\originals\\photo_5411345428311119987_y.jpg",
+    "sha256": "23a7ba8f9b780b75551ab738d43a796430e7facbe2a0b1ac80007aeb58204088"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5411345428311119988_y.jpg",
+    "archive": "media\\originals\\photo_5411345428311119988_y.jpg",
+    "sha256": "1e5c15c99875f641df7d13b985201cd985b73a5c426b1e5ba1347e761010079b"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5411345428311120018_y.jpg",
+    "archive": "media\\originals\\photo_5411345428311120018_y.jpg",
+    "sha256": "bc7d0b33291a3d1a4230dff9095b7956e9d58c89eedc2d210d6d36227438301d"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5411345428311120019_y.jpg",
+    "archive": "media\\originals\\photo_5411345428311120019_y.jpg",
+    "sha256": "d47c749252187df6350ed8ea54bbd48ed0ba25180fea826c5c1a07694b2f4b2d"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5420243440907260620_y (1).jpg",
+    "archive": "media\\originals\\photo_5420243440907260620_y (1).jpg",
+    "sha256": "42f44965af57239f40ee1cd1c2a0334a41e85a7dd92b0e6f81786cb7111bedaf"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5420243440907260620_y.jpg",
+    "archive": "media\\originals\\photo_5420243440907260620_y.jpg",
+    "sha256": "42f44965af57239f40ee1cd1c2a0334a41e85a7dd92b0e6f81786cb7111bedaf"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721172_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721172_y.jpg",
+    "sha256": "3537f931ba940d7078a1c9bead979b6aff299774c2a3c9257a09ecb53b16970f"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721173_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721173_y.jpg",
+    "sha256": "c5a33c63e1498d78572f16b3f7bb0d87294185400a56aaf4f46cd19435b1068e"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721174_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721174_y.jpg",
+    "sha256": "14edfdbde5795fc1ec5a426ff84d042d0192d0421523c71fcf0c54d4f22dcac1"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721175_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721175_y.jpg",
+    "sha256": "24f8a9c1ee7cfceefd9023efacbd9618ed76e4f3e879edc9896cabd4edf04bc4"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721176_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721176_y.jpg",
+    "sha256": "09cffcabdc10fa1144bc765df0908ccca1c69c21c5ece174b8c764fe7303ed4b"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721177_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721177_y.jpg",
+    "sha256": "395b80f0b998dcd78be82fe321fc2973e542b51134492d1f95b4ef2724e04e2e"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721178_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721178_y.jpg",
+    "sha256": "e859580dd3acc10f5883716afe36758342148c85642d8c1f6a9f4e83022f182d"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721179_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721179_y.jpg",
+    "sha256": "a1dd39912c7a326d4d815de1825d7fd171e2dcb4d462a79b335fd1da319653bb"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721180_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721180_y.jpg",
+    "sha256": "5a9ff96883798baf0d5b0270e6dc1142b474f9a485f4d423fb78d4e38f4c4a9a"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721181_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721181_y.jpg",
+    "sha256": "1f10eecedd47dab0c39818b8cd27a55e59c9fdfa81e817caca67531cdae501c4"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721182_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721182_y.jpg",
+    "sha256": "da0e421976968da941b382b0bc319da6a54282ec9685149dbd798ea0e2df68cf"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721183_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721183_y.jpg",
+    "sha256": "9e06b3557defbff96ac6fc9fea65802f82860dc36d39a09f3f1afb85e98d21c9"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721184_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721184_y.jpg",
+    "sha256": "f5cf3c02abb0df00f72261df680b53115829bf3030596ff2f57240d930f44a95"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721185_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721185_y.jpg",
+    "sha256": "4e1e903d242507f5ef47f2625426c8ead816c70c6fea84d064123b0a39239d32"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721186_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721186_y.jpg",
+    "sha256": "fd996fc753f1f9a23091cb9a5795954a8f9543a7156fbfa2a3d2d5d7188a425e"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721187_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721187_y.jpg",
+    "sha256": "4a605ce4a6d81f555b83e622085c301dc1a6014aa0dc1a30f89504de8d23557b"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721188_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721188_y.jpg",
+    "sha256": "fb113937d19b67e2bdb9f927f7ffdf57c062466ddd1ad4e0238a8e4f18b8aacf"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721189_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721189_y.jpg",
+    "sha256": "70fe0bd45464f048dd059dfa152098fa92b8a327d1e731d8a919c5d6d0b0a8f9"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721190_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721190_y.jpg",
+    "sha256": "45db770685399bb20f266208d0c3bce206bce8a461e9dfd22fd368309b9ee76b"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721191_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721191_y.jpg",
+    "sha256": "9f515324031f466a2b5de34cc0c4d2de19e1bc9e02dc1569ba0aee695c3856c0"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721192_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721192_y.jpg",
+    "sha256": "d35e5a01053dbf960b5ba6051e091c5d4ef27fecd26bba0b72ba97446f33b169"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721193_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721193_y.jpg",
+    "sha256": "fd977fafdf011d86e65157fa904142076aeb6cc3bc9a9c532d314a7b776d0a07"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721194_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721194_y.jpg",
+    "sha256": "48f87ebc2c9ad1e7c0c92d9cf4ea4a6732bc474f5285fe8f424572a117b2090d"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721195_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721195_y.jpg",
+    "sha256": "c7442743f6e340f175b91566d8be95ff660c1ea2790da7ab0d04a22fd6de0329"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721196_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721196_y.jpg",
+    "sha256": "3de0df61c52bd58003233800b20f80843804d382d321c49cce2c88735b6ecd4d"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721197_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721197_y.jpg",
+    "sha256": "e51f1ec2312a3f32acc678d5991d70896e80151240a8337f00fd5f0583b1559b"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721198_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721198_y.jpg",
+    "sha256": "f9e67a30a27a86a61b4532524132581106cf33caa303d47df3f9d323c5930063"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721199_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721199_y.jpg",
+    "sha256": "ac1ed2cb73b989e23c1dbd31c1e33b4d900a24c13e3cbfc7aaea9e03d7ceabcd"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721200_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721200_y.jpg",
+    "sha256": "50004d3d37e3c83450e3fc1b822f9f0196d351a10068685d8080250ece35d841"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721201_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721201_y.jpg",
+    "sha256": "03b8d6c214e80dc4b9995bc4d3938aeacf3ae0cd1945e24fb5d9f8144a2c04bf"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721202_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721202_y.jpg",
+    "sha256": "606989e02d2b7fa2d2a936205dbd09fb8b65df43b1514cdb3aa167690cc05f20"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721203_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721203_y.jpg",
+    "sha256": "1566c703563ffe63213b09aeb1066f56caa25a5644f8e1d196f9d1805ff9ad0d"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721204_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721204_y.jpg",
+    "sha256": "ba0ba1340a55aee4ccf48c50cfb85b48b9b8e5162f72191c438d1902b818f664"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721205_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721205_y.jpg",
+    "sha256": "7529a596f9b091998d48d83e2cc3f3bbea9c161f9587bbec5861f1d65ba74ee7"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721206_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721206_y.jpg",
+    "sha256": "e8d7fc065fe5af926456e7a7f8ce1f4d0c2cc6ebe29418b14ca3350e9992e1b8"
+  },
+  {
+    "source": "D:\\TEMP2\\photo_5449851128674721207_y.jpg",
+    "archive": "media\\originals\\photo_5449851128674721207_y.jpg",
+    "sha256": "e7f95225eeea9114261649569d2323c2260e4316a9a01c6164473d9711598960"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\generated_images\\01a1c758-004f-78d2-8a32-fc66360aa836\\exec-08567ab9-cc38-4ef6-ad4a-39a483cbd490.png",
+    "archive": "media\\generated\\exec-08567ab9-cc38-4ef6-ad4a-39a483cbd490.png",
+    "sha256": "2ea75950f980781243b3468d6b793c3b97d806fba546b953e6b15b23d25f7c07"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\generated_images\\01a1c758-004f-78d2-8a32-fc66360aa836\\exec-1913ce44-ef71-4617-a120-2bb6de86b620.png",
+    "archive": "media\\generated\\exec-1913ce44-ef71-4617-a120-2bb6de86b620.png",
+    "sha256": "3d324478c21ea4cb5389eef5ef100c2b288e741058645cdb01b80721922ee739"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\generated_images\\01a1c758-004f-78d2-8a32-fc66360aa836\\exec-4e39d29f-71f4-4279-a8c0-0d827d5ca267.png",
+    "archive": "media\\generated\\exec-4e39d29f-71f4-4279-a8c0-0d827d5ca267.png",
+    "sha256": "3387f3780b6447ea2ea5427eced0935e68388f9fb401305c612bf98e3d3144da"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\generated_images\\01a1c758-004f-78d2-8a32-fc66360aa836\\exec-5ee6e6c4-3f82-47f9-9b0f-3d59d3bb9b48.png",
+    "archive": "media\\generated\\exec-5ee6e6c4-3f82-47f9-9b0f-3d59d3bb9b48.png",
+    "sha256": "19fd5d353f3f3f1e15a51f0873c4518972a2e434275f665baef00bab9a85d547"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\generated_images\\01a1c758-004f-78d2-8a32-fc66360aa836\\exec-65214613-f5f3-4eeb-9d85-9194f8a20576.png",
+    "archive": "media\\generated\\exec-65214613-f5f3-4eeb-9d85-9194f8a20576.png",
+    "sha256": "04a542159c9428b7998f44e3bd12e6f253ff896f0d82052ad7f2e58133c0b40f"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\generated_images\\01a1c758-004f-78d2-8a32-fc66360aa836\\exec-9413e122-3486-42d9-97de-e970f6ab3827.png",
+    "archive": "media\\generated\\exec-9413e122-3486-42d9-97de-e970f6ab3827.png",
+    "sha256": "1369dfd7a6f053e4afce34da350f20c753e518b9d1c14660b5e42633ee72d648"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\generated_images\\01a1c758-004f-78d2-8a32-fc66360aa836\\exec-a25d5afb-2869-459a-95df-5eff243e99c2.png",
+    "archive": "media\\generated\\exec-a25d5afb-2869-459a-95df-5eff243e99c2.png",
+    "sha256": "92b3fecdd1123bdf94cbabe29ecd8c5ceaf6d5488edd945d3e05267532ff429a"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\.codex\\generated_images\\01a1c758-004f-78d2-8a32-fc66360aa836\\exec-cec17331-a5ef-44c9-9ed0-0ddae71de162.png",
+    "archive": "media\\generated\\exec-cec17331-a5ef-44c9-9ed0-0ddae71de162.png",
+    "sha256": "7ae88bbd79ccea2760f94fcc072834e4d275797dca94ddd1c940a8a26535b447"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\AppData\\Local\\Temp\\codex-clipboard-5109d937-b98d-415e-8586-47a14b71f94f.png",
+    "archive": "media/references/codex-clipboard-5109d937-b98d-415e-8586-47a14b71f94f.png",
+    "sha256": "f2930c7300d836a26a4789abb142545f6a610848568e45762a2b30cfada023fe"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\AppData\\Local\\Temp\\codex-clipboard-19d88aa8-063d-403b-b3aa-b5643793e3be.png",
+    "archive": "media/references/codex-clipboard-19d88aa8-063d-403b-b3aa-b5643793e3be.png",
+    "sha256": "f8d8e04abff70cf9be43ad6d5e5ef4ad153ea8dd7f913c78559f30934133f799"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\AppData\\Local\\Temp\\codex-clipboard-50e84e58-3e45-4f15-96a3-a393a8b05dab.png",
+    "archive": "media/references/codex-clipboard-50e84e58-3e45-4f15-96a3-a393a8b05dab.png",
+    "sha256": "2efe59d69a4a27213a218cf3d80dec1c092311588725c00596f8423607972e17"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\AppData\\Local\\Temp\\codex-clipboard-4ec1b5bc-2651-4777-b941-8e8a24f28caa.png",
+    "archive": "media/references/codex-clipboard-4ec1b5bc-2651-4777-b941-8e8a24f28caa.png",
+    "sha256": "2efe59d69a4a27213a218cf3d80dec1c092311588725c00596f8423607972e17"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\AppData\\Local\\Temp\\codex-clipboard-613c615c-4aac-45ff-bb7f-6d88a9cd0477.png",
+    "archive": "media/references/codex-clipboard-613c615c-4aac-45ff-bb7f-6d88a9cd0477.png",
+    "sha256": "f2351359842aec4a40bc97a28a618baad1ad511fb53b200823f356da9ecb02d4"
+  },
+  {
+    "source": "C:\\Users\\eukuz\\AppData\\Local\\Temp\\codex-clipboard-2b3fb2c1-58d9-4fe5-9049-15215679f134.png",
+    "archive": "media/references/codex-clipboard-2b3fb2c1-58d9-4fe5-9049-15215679f134.png",
+    "sha256": "752022987297996390124eff7868f887d6731663714a96535dcfd6e5ad3833a4"
+  }
+]

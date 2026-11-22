@@ -1,0 +1,20 @@
+/* The same organic Discuss control across all sections. */
+#page-content .discuss-cta{position:relative;isolation:isolate;display:inline-grid;place-items:center;flex:none;box-sizing:border-box;border:0;padding:0;margin:0;width:175px;height:120px;font:italic 400 26px/1.2 Georgia,serif;color:#20211d;background:none;cursor:pointer;text-decoration:none;white-space:nowrap}
+#page-content .discuss-cta::before,#page-content .discuss-cta::after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none}
+#page-content .discuss-cta::before{background:#e3dfd3;clip-path:path("M154.5,88.5 C131,113.5 62.5,110 30,89.5 C-2.5,69 -3.5,42 4.5,25.5 C12.5,9 33.5,-6 85,3.5 C136.5,13 178,63.5 154.5,88.5 Z");transition:clip-path .5s cubic-bezier(.585,2.5,.645,.55),background .5s ease;z-index:-1}
+#page-content .discuss-cta::after{height:86%;width:97%;top:5%;border-radius:58% 42% 55% 45% / 56% 45% 55% 44%;border:1px solid #ac3d2e;transform:rotate(-20deg);z-index:-2;transition:transform .5s cubic-bezier(.585,2.5,.645,.55)}
+#page-content .discuss-cta span{position:relative;display:block;font:inherit;color:inherit;max-width:none;transition:transform .3s,color .3s}
+#page-content .discuss-cta:is(:hover,:focus-visible)::before,#page-content summary:is(:hover,:focus-visible) .discuss-cta::before{background:#ac3d2e;clip-path:path("M143,77 C117,96 74,100.5 45.5,91.5 C17,82.5 -10.5,57 5.5,31.5 C21.5,6 79,-5.5 130.5,4 C182,13.5 169,58 143,77 Z")}
+#page-content .discuss-cta:is(:hover,:focus-visible)::after,#page-content summary:is(:hover,:focus-visible) .discuss-cta::after{transform:translateY(-5px)}
+#page-content .discuss-cta:is(:hover,:focus-visible) span,#page-content summary:is(:hover,:focus-visible) .discuss-cta span{transform:translateY(-10px);color:#f3f0e9}
+@media(prefers-reduced-motion:reduce){#page-content .discuss-cta,#page-content .discuss-cta::before,#page-content .discuss-cta::after,#page-content .discuss-cta span{transition:none}}
+#page-content #bez-lounge-hero .bh-button.discuss-cta{display:inline-grid;font:italic 400 26px/1.2 Georgia,serif}
+
+#page-content .discuss-cta::after,#page-content #bez-lounge-hero .discuss-cta::after{z-index:0}
+#page-content .discuss-cta span{z-index:1}
+
+/* Later screens use the hero CTA geometry; only label size varies. */
+#page-content #bez-design-partners .bdp-button.discuss-cta{font:italic 400 24px/1.2 Georgia,serif}
+#page-content #bez-process .bp-janus.discuss-cta{font:italic 400 26px/1.2 Georgia,serif}
+#page-content #bez-cost-factors .bc-contact-trigger.discuss-cta{font:italic 400 21px/1.2 Georgia,serif}
+#page-content #bez-questions .bq-contact-trigger.discuss-cta{font:italic 400 22px/1.2 Georgia,serif}

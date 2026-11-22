@@ -1,0 +1,23 @@
+<div id="bez-new-directions">
+<style>
+#bez-new-directions .nd-stage{background:#f3f0e9;padding:24px;color:#20211d}#bez-new-directions canvas{display:block;width:100%;aspect-ratio:16/10}#bez-new-directions .nd-small{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}#bez-new-directions figure{margin:0;font:11px/1.5 Arial,sans-serif;text-align:center}#bez-new-directions .nd-small canvas{aspect-ratio:3/2;margin-bottom:8px}
+</style>
+<div class="viz-carousel" aria-label="Новые направления знака" data-previous-label="Назад" data-next-label="Далее">
+<section data-variant="Авторское БЕЗ"><div class="nd-stage" data-kind="word"><canvas aria-label="Авторская надпись БЕЗ с общими округлыми формами" role="img"></canvas><div class="nd-small"><figure><canvas data-tone="red" role="img" aria-label="Терракотовая надпись"></canvas><figcaption>Терракота</figcaption></figure><figure><canvas data-tone="dark" role="img" aria-label="Светлая надпись на тёмном"></canvas><figcaption>На тёмном</figcaption></figure><figure><canvas data-tone="ink" role="img" aria-label="Чёрная надпись"></canvas><figcaption>Один цвет</figcaption></figure></div></div></section>
+<section data-variant="К с разрывом" hidden><div class="nd-stage" data-kind="letter"><canvas aria-label="К с просветом между вертикальным штрихом и диагоналями" role="img"></canvas><div class="nd-small"><figure><canvas data-tone="red" role="img" aria-label="Терракотовая К"></canvas><figcaption>Терракота</figcaption></figure><figure><canvas data-tone="dark" role="img" aria-label="Светлая К на тёмном"></canvas><figcaption>На тёмном</figcaption></figure><figure><canvas data-tone="ink" role="img" aria-label="Чёрная К"></canvas><figcaption>Один цвет</figcaption></figure></div></div></section>
+</div>
+<script>
+(()=>{const root=document.getElementById('bez-new-directions');
+function draw(canvas,kind){const w=canvas.clientWidth||640,h=canvas.clientHeight||400,d=Math.min(devicePixelRatio||1,2);canvas.width=w*d;canvas.height=h*d;const c=canvas.getContext('2d');const tone=canvas.dataset.tone||'ink',bg=tone==='dark'?'#20211d':'#f3f0e9',fg=tone==='dark'?'#f3f0e9':tone==='red'?'#ac3d2e':'#20211d';c.setTransform(d,0,0,d,0,0);c.fillStyle=bg;c.fillRect(0,0,w,h);const s=Math.min(w/250,h/145);c.translate(w/2,h/2);c.scale(s,s);c.strokeStyle=fg;c.fillStyle=fg;c.lineWidth=7;c.lineCap='butt';c.lineJoin='round';
+if(kind==='word'){
+c.translate(-89,-29);
+// A shared curve and consistent terminals give all three letters the same construction.
+c.stroke(new Path2D('M49 0H7V58H31C49 58 57 50 57 40C57 29 48 23 31 23H7'));
+c.stroke(new Path2D('M111 0H88C72 0 66 10 66 29S72 58 88 58H111 M67 28H105'));
+c.stroke(new Path2D('M123 5C133 -1 147 -2 158 2C177 9 174 25 155 28C175 29 181 46 164 55C152 62 134 59 122 53'));
+}else{
+c.translate(-26,-36);c.lineWidth=7;c.stroke(new Path2D('M0 0V72'));c.stroke(new Path2D('M57 0L24 36L59 72'));c.stroke(new Path2D('M12 36H24'));
+} }
+root.querySelectorAll('.nd-stage').forEach(stage=>{const render=()=>stage.querySelectorAll('canvas').forEach(canvas=>draw(canvas,stage.dataset.kind));new ResizeObserver(render).observe(stage);render();});})();
+</script>
+</div>

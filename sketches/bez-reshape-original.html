@@ -1,0 +1,44 @@
+<!-- Reshape / Janus from Codrops ButtonHoverStyles, https://github.com/codrops/ButtonHoverStyles . MIT license. Copyright (c) 2009 - 2021 Codrops.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
+<div id="bez-janus-original">
+<style>
+#bez-janus-original{background:#f3f0e9;color:#20211d;padding:28px 38px 34px;font-family:Arial,sans-serif;box-sizing:border-box}
+#bez-janus-original *{box-sizing:border-box}
+#bez-janus-original .bj-brand{font-size:22px;letter-spacing:-1px;padding-bottom:22px;border-bottom:1px solid #d8d3c9}
+#bez-janus-original .bj-brand em{color:#ac3d2e;font-style:normal}
+#bez-janus-original .bj-label{font:10px/1.5 Arial,sans-serif;letter-spacing:1.4px;text-transform:uppercase;margin:30px 0 20px}
+#bez-janus-original h1{font:400 clamp(39px,7.6vw,64px)/.98 Arial,sans-serif;letter-spacing:-2.6px;margin:0}
+#bez-janus-original h1 span{color:#ac3d2e}
+#bez-janus-original .bj-lead{font:19px/1.4 Georgia,serif;max-width:350px;margin:24px 0 28px}
+#bez-janus-original .bj-actions{display:flex;align-items:center;gap:42px;flex-wrap:wrap;min-height:150px}
+#bez-janus-original .bj-button{position:relative;isolation:isolate;display:inline-block;border:0;padding:0;margin:0;font-family:Georgia,serif;font-weight:900;font-size:22.5px;width:175px;height:120px;color:#fff;background:none}
+#bez-janus-original .bj-button::before,#bez-janus-original .bj-button::after{position:absolute;top:0;left:0;width:100%;height:100%}
+#bez-janus-original .bj-button::before{content:'';background:#e6e6e6;clip-path:path("M154.5,88.5 C131,113.5 62.5,110 30,89.5 C-2.5,69 -3.5,42 4.5,25.5 C12.5,9 33.5,-6 85,3.5 C136.5,13 178,63.5 154.5,88.5 Z");transition:clip-path .5s cubic-bezier(.585,2.5,.645,.55),background .5s ease}
+#bez-janus-original .bj-button:is(:hover,:focus-visible,.is-touch)::before{background:#000;clip-path:path("M143,77 C117,96 74,100.5 45.5,91.5 C17,82.5 -10.5,57 5.5,31.5 C21.5,6 79,-5.5 130.5,4 C182,13.5 169,58 143,77 Z")}
+#bez-janus-original .bj-button::after{content:'';height:86%;width:97%;top:5%;border-radius:58% 42% 55% 45% / 56% 45% 55% 44%;border:1px solid #000;transform:rotate(-20deg);z-index:-1;transition:transform .5s cubic-bezier(.585,2.5,.645,.55)}
+#bez-janus-original .bj-button:is(:hover,:focus-visible,.is-touch)::after{transform:translate3d(0,-5px,0)}
+#bez-janus-original .bj-button span{display:block;transition:transform .3s ease;mix-blend-mode:difference;position:relative}
+#bez-janus-original .bj-button:is(:hover,:focus-visible,.is-touch) span{transform:translate3d(0,-10px,0)}
+#bez-janus-original .bj-work{font:13px Arial,sans-serif;color:#20211d;text-decoration:none;display:inline-flex;align-items:center;min-height:44px;border-bottom:1px solid #aaa295}
+#bez-janus-original .bj-contact{margin-top:24px;padding-top:20px;border-top:1px solid #d8d3c9}
+#bez-janus-original .bj-contact p{font:18px/1.4 Georgia,serif;margin:0 0 12px;max-width:400px}
+#bez-janus-original .bj-contact a{font:22px Arial,sans-serif;color:#20211d;text-decoration:none;display:inline-block;padding:8px 0}
+#bez-janus-original [hidden]{display:none!important}
+@media(max-width:480px){#bez-janus-original{padding:24px}#bez-janus-original h1{font-size:40px;letter-spacing:-1.8px}#bez-janus-original .bj-lead{font-size:18px}#bez-janus-original .bj-actions{flex-direction:column;align-items:flex-start;gap:12px}}
+@media(prefers-reduced-motion:reduce){#bez-janus-original *,#bez-janus-original *::before,#bez-janus-original *::after{transition:none!important}}
+</style>
+<div class="bj-brand">БЕЗ<em>К</em>ОРНЕЙ</div>
+<p class="bj-label">Ателье искусственного озеленения</p>
+<h1>Зелень,<br>меняющая<br>пространство<span>.</span></h1>
+<p class="bj-lead">Композиции из искусственных растений для коммерческих интерьеров.</p>
+<div class="bj-actions">
+<button type="button" class="bj-button cursor-interaction" aria-controls="bj-contact" aria-expanded="false"><span>Обсудим?</span></button>
+<a class="bj-work" href="https://bez-korney-studio.cherishedfrog1.chatgpt.site/works.html" target="_blank" rel="noopener">Посмотреть работы ↗</a>
+</div>
+<div id="bj-contact" class="bj-contact" hidden><p>Расскажите, что хочется изменить в вашем пространстве.</p><a href="tel:+79204565123">+7 920 456-51-23</a></div>
+<script>
+(function(){const root=document.getElementById('bez-janus-original');const button=root.querySelector('.bj-button');button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')!=='true';button.setAttribute('aria-expanded',String(open));root.querySelector('#bj-contact').hidden=!open;});button.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse'){button.classList.add('is-touch');setTimeout(()=>button.classList.remove('is-touch'),650);}});})();
+</script>
+</div>

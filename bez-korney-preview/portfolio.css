@@ -1,0 +1,13 @@
+.portfolio-dialog{position:fixed;inset:0;width:100%;max-width:none;height:100dvh;max-height:none;box-sizing:border-box;margin:0;padding:24px clamp(16px,3vw,48px);border:0;background:#f3f0e9;color:#20211d}
+.portfolio-dialog[open]{display:flex;flex-direction:column;gap:12px}
+.portfolio-dialog::backdrop{background:#20211de6}
+.portfolio-dialog-head{display:flex;justify-content:space-between;align-items:center;gap:24px;flex:none}
+.portfolio-dialog h3{margin:0;font:400 clamp(18px,2vw,28px)/1.2 Arial,sans-serif}
+.portfolio-dialog button{background:none;border:0;color:inherit;font:14px Arial,sans-serif;min-width:44px;min-height:44px;cursor:pointer;padding:10px}
+.portfolio-dialog button:disabled{opacity:.3;cursor:default}
+.portfolio-dialog .portfolio-photo{display:block;width:100%;min-height:0;flex:1;object-fit:contain}
+.portfolio-dialog .portfolio-description{margin:0;font:13px/1.5 Arial,sans-serif;flex:none}
+.portfolio-controls{display:flex;align-items:center;justify-content:space-between;border-top:1px solid #cec9bf;flex:none}
+.portfolio-counter{font:12px monospace}
+.portfolio-dialog :focus-visible{outline:2px solid #ac3d2e;outline-offset:3px}
+@media(prefers-reduced-motion:reduce){.portfolio-dialog *{scroll-behavior:auto}}

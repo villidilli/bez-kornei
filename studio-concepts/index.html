@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Два направления айдентики семейной студии искусственного озеленения.">
+  <title>НЕСЕЗОН / БЕЗ КОРНЕЙ — два направления</title>
+  <link rel="stylesheet" href="style.css">
+  <link id="studio-icon" rel="icon" href="nesezon-mark.svg" type="image/svg+xml">
+  <script src="site.js" defer></script>
+</head>
+<body>
+  <aside class="compare" aria-label="Сравнение концепций">
+    <span class="compare-label">Дизайн-проба / 01–02</span>
+    <nav aria-label="Направления">
+      <a href="#nesezon" data-switch="nesezon" aria-current="page"><small>01</small> НЕСЕЗОН</a>
+      <a href="#bez-korney" data-switch="bez-korney"><small>02</small> БЕЗ КОРНЕЙ</a>
+    </nav>
+    <a class="compare-notes" href="logos.html">Логотипы ↗</a>
+  </aside>
+  <main>
+    <article id="nesezon" class="nesezon">
+      <header class="mast wrap">
+        <a href="#nesezon" class="wordmark"><img src="nesezon-line.svg" alt="НЕСЕЗОН"></a>
+        <nav aria-label="НЕСЕЗОН">
+          <a href="#nesezon-work">Работы</a>
+          <a href="#nesezon-studio">Студия</a>
+        </nav>
+        <a class="mast-cta" href="#nesezon-visit">Посмотреть вживую ↗</a>
+      </header>
+      <section class="n-hero wrap" aria-labelledby="n-title">
+        <div class="n-copy">
+          <div class="eyebrow"><span class="dash"></span> Студия искусственного озеленения</div>
+          <h1 id="n-title">Зелень вне<br><em>сезона.</em></h1>
+          <p>Растительные композиции для коммерческих интерьеров и входных зон.</p>
+          <a class="text-link" href="#nesezon-work">Смотреть работы <span aria-hidden="true">↘</span></a>
+          <span class="n-index eyebrow">Наблюдения о пространстве / 01</span>
+        </div>
+        <figure class="n-cover">
+          <button type="button" class="cover-image" data-work="wall" aria-label="Открыть фотографии фитостены">
+            <img src="photos/wall.jpg" alt="Фитостена и рельефная стена по разные стороны лестницы" fetchpriority="high">
+            <span class="image-open" aria-hidden="true">↗</span>
+          </button>
+          <figcaption class="eyebrow"><span>Рис. 01</span><span>Фитостена у лестницы</span></figcaption>
+        </figure>
+      </section>
+      <section id="nesezon-work" class="n-work wrap">
+        <div class="section-title">
+          <span class="eyebrow">01 / Портфолио</span>
+          <h2>Работы в пространстве</h2>
+          <p>Вход, стена, посадочная зона. Смотрим, как композиция работает в каждом из этих мест.</p>
+        </div>
+        <div class="n-gallery" data-gallery="wall,seating,arch,window,planter"></div>
+      </section>
+      <section id="nesezon-studio" class="n-studio">
+        <div class="wrap studio-grid">
+          <span class="eyebrow">02 / Студия</span>
+          <div>
+            <h2>Начинаем с места.</h2>
+            <p>Мы семейная студия. Подбираем масштаб, цвет и плотность композиции под конкретное место. Смотрим, как её увидят с улицы, в проходе или за столом.</p>
+          </div>
+          <img src="photos/wall-detail.jpg" alt="Крупный план папоротников в фитостене" loading="lazy">
+        </div>
+      </section>
+      <section id="nesezon-visit" class="visit wrap">
+        <span class="eyebrow">03 / Встреча</span>
+        <div><h2>Увидеть вживую.</h2><p>По предварительной договорённости покажем выполненную работу в действующем пространстве.</p></div>
+        <button class="text-link" data-visit type="button">Что обсудить перед встречей <span aria-hidden="true">↗</span></button>
+      </section>
+      <section id="nesezon-identity" class="identity wrap">
+        <span class="eyebrow">Дизайн-проба 01</span>
+        <div><h2>Архитектурный журнал</h2><p>«НЕСЕЗОН» говорит о свободе от календаря. В словесном знаке прямые штрихи чередуются с округлыми, заголовки напоминают журнальную полосу, а фотографии сопровождают короткие подписи, как в архитектурном издании.</p></div>
+        <div class="swatches" aria-label="Палитра"><span style="--swatch:#f4f0e7">Известь</span><span style="--swatch:#211f1a">Графит</span><span style="--swatch:#a33e2e">Терракота</span></div>
+      </section>
+    </article>
+    <article id="bez-korney" class="bez" hidden>
+      <header class="mast wrap">
+        <a href="#bez-korney" class="wordmark"><img src="bez-line.svg" alt="БЕЗ КОРНЕЙ"></a>
+        <nav aria-label="БЕЗ КОРНЕЙ">
+          <a href="#bez-korney-work">Работы</a>
+          <a href="#bez-korney-studio">Студия</a>
+        </nav>
+        <a class="mast-cta" href="#bez-korney-visit">Посмотреть вживую ↗</a>
+      </header>
+      <section class="b-hero wrap" aria-labelledby="b-title">
+        <div class="b-top eyebrow"><span>Семейная студия<br>искусственного озеленения</span><span>Досье / 01<br>Входная зона</span></div>
+        <div class="b-stage">
+          <div class="b-title"><h1 id="b-title"><img src="bez-stack.svg" alt="БЕЗ КОРНЕЙ"></h1><p>Растения как<br>архитектурный жест.</p></div>
+          <figure class="b-cover">
+            <button type="button" class="cover-image" data-work="arch" aria-label="Открыть фотографии цветочной арки">
+              <img src="photos/arch.jpg" alt="Красная цветочная арка обрамляет вход с тёмным дверным проёмом">
+              <span class="image-open" aria-hidden="true">↗</span>
+            </button>
+            <figcaption class="eyebrow"><span>Фрагмент 01</span><span>Цветочная арка</span></figcaption>
+          </figure>
+          <svg class="mark" viewBox="0 0 64 64" fill="none" aria-hidden="true"><path d="M2 23V2h21m18 0h21v21m0 18v21H41m-18 0H2V41M32 19v26M19 32h26" stroke="currentColor" stroke-width="2"/></svg>
+        </div>
+        <div class="b-bottom"><p>Растительные инсталляции для коммерческих интерьеров и входных зон.</p><a class="text-link" href="#bez-korney-work">Открыть архив <span aria-hidden="true">↘</span></a></div>
+      </section>
+      <section id="bez-korney-work" class="b-work wrap">
+        <div class="section-title"><span class="eyebrow">01 / Портфолио</span><h2>Архив форм.</h2><p>Как композиция обрамляет вход, меняет плоскость стены и разделяет пространство.</p></div>
+        <div class="b-gallery" data-gallery="arch,wall,window,seating,planter"></div>
+      </section>
+      <section id="bez-korney-studio" class="b-studio">
+        <div class="wrap studio-grid">
+          <span class="eyebrow">02 / Студия</span>
+          <div><h2>Форма в масштабе.</h2><p>Мы семейная студия. Собираем композиции из искусственных растений и монтируем их на месте. Нас интересует, как композиция меняет силуэт входа, ритм стены или вид из зала.</p></div>
+          <img src="photos/arch-install.jpg" alt="Монтаж цветочной арки со стремянки" loading="lazy">
+        </div>
+      </section>
+      <section id="bez-korney-visit" class="visit wrap">
+        <span class="eyebrow">03 / Встреча</span>
+        <div><h2>Посмотреть на месте.</h2><p>По предварительной договорённости покажем выполненную работу. Вблизи можно рассмотреть фактуру, а с расстояния — оценить масштаб композиции.</p></div>
+        <button class="text-link" data-visit type="button">Что обсудить перед встречей <span aria-hidden="true">↗</span></button>
+      </section>
+      <section id="bez-korney-identity" class="identity wrap">
+        <span class="eyebrow">Дизайн-проба 02</span>
+        <div><h2>Выставочная афиша</h2><p>«БЕЗ КОРНЕЙ» открыто называет свойство материала. Знак работает в одну строку со слешем и в два яруса на обложке. Рамка с перекрестием отсылает к разметке кадра, а красный ведёт взгляд от названия к фотографии.</p></div>
+        <div class="swatches" aria-label="Палитра"><span style="--swatch:#171716">Уголь</span><span style="--swatch:#efebe3">Мел</span><span style="--swatch:#ff593e">Киноварь</span></div>
+      </section>
+    </article>
+  </main>
+  <dialog id="work-dialog" aria-labelledby="work-title">
+    <div class="dialog-head"><span id="work-kind" class="eyebrow"></span><form method="dialog"><button class="close" aria-label="Закрыть">×</button></form></div>
+    <h2 id="work-title"></h2>
+    <p id="work-description"></p>
+    <figure><img id="work-image" alt=""><figcaption id="work-caption"></figcaption></figure>
+    <div class="dialog-controls"><button id="work-prev" type="button" aria-label="Предыдущий кадр">←</button><span id="work-count" aria-live="polite"></span><button id="work-next" type="button" aria-label="Следующий кадр">→</button></div>
+  </dialog>
+  <dialog id="visit-dialog" aria-labelledby="visit-title">
+    <div class="dialog-head"><span class="eyebrow">Встреча / Подготовка</span><form method="dialog"><button class="close" aria-label="Закрыть">×</button></form></div>
+    <h2 id="visit-title">Перед встречей</h2>
+    <p>Расскажите, какое пространство хотите оформить и какие из работ вам хотелось бы увидеть. Для разговора о вашем объекте пригодятся фотографии входа или интерьера и примерные размеры зоны.</p>
+    <p class="demo-note">В дизайн-пробе контакты студии ещё не подключены.</p>
+  </dialog>
+</body>
+</html>

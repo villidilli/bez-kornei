@@ -1,0 +1,26 @@
+diff --git a/dist/site.css b/dist/site.css
+index 60a5929..af4b076 100644
+--- a/dist/site.css
++++ b/dist/site.css
+@@ -23,7 +23,7 @@ html { scroll-behavior: smooth; }
+ .header nav { display: flex; gap: clamp(14px, 2vw, 34px); align-items: center; }
+ .header nav a, .footer a:not(.brand) { font-size: 13px; white-space: nowrap; }
+ .header nav a:hover, .header nav a[aria-current], .footer a:hover { text-decoration: underline; text-underline-offset: 5px; }
+-.brand img { width: clamp(113px, 12vw, 183px); }
++.brand img { width: clamp(113px, 12vw, 183px); height: auto; object-fit: contain; }
+ .home-header { position: absolute; top: 0; right: 0; width: 51%; padding-inline: clamp(19px, 3.3vw, 60px); }
+ .header-dark, .footer { color: var(--paper); background: #171816; }
+ .label, .media-meta, .editorial figcaption {
+diff --git a/site.css b/site.css
+index 60a5929..af4b076 100644
+--- a/site.css
++++ b/site.css
+@@ -23,7 +23,7 @@ html { scroll-behavior: smooth; }
+ .header nav { display: flex; gap: clamp(14px, 2vw, 34px); align-items: center; }
+ .header nav a, .footer a:not(.brand) { font-size: 13px; white-space: nowrap; }
+ .header nav a:hover, .header nav a[aria-current], .footer a:hover { text-decoration: underline; text-underline-offset: 5px; }
+-.brand img { width: clamp(113px, 12vw, 183px); }
++.brand img { width: clamp(113px, 12vw, 183px); height: auto; object-fit: contain; }
+ .home-header { position: absolute; top: 0; right: 0; width: 51%; padding-inline: clamp(19px, 3.3vw, 60px); }
+ .header-dark, .footer { color: var(--paper); background: #171816; }
+ .label, .media-meta, .editorial figcaption {

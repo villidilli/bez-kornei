@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Реальные работы ателье БЕЗ КОРНЕЙ. Фитостена, входные композиции и озеленение посадочных зон.">
+  <title>Портфолио искусственного озеленения — БЕЗ КОРНЕЙ</title>
+  <link rel="icon" type="image/svg+xml" href="bez-mark.svg">
+  <link rel="stylesheet" href="site.css">
+  <script src="works.js" defer></script>
+</head>
+<body>
+  <header class="header header-dark">
+    <a class="brand" href="index.html" aria-label="БЕЗ КОРНЕЙ, главная"><img src="bez-portal-dark.svg?v=atelier-greening" alt=""></a>
+    <nav aria-label="Основная навигация">
+      <a href="index.html#studio">О нас</a>
+      <a href="works.html" aria-current="page">Работы <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+  <main class="portfolio">
+    <div class="portfolio-intro">
+      <p class="label"><i></i> Портфолио ателье</p>
+      <h1>Работы<span>.</span></h1>
+      <p class="portfolio-lead">Композиции в действующих пространствах. Общие планы и детали из архива бюро.</p>
+    </div>
+    <section class="work-grid" aria-label="Фотографии работ">
+      <article class="work">
+        <button type="button" data-work="wall" aria-label="Фотографии фитостены у лестницы"><img src="photos/wall.jpg" alt="Фитостена и лестница в одном проходе" loading="lazy"><span class="tile-open" aria-hidden="true">↗</span></button>
+        <p class="label">01 / Вертикаль</p><h2>Фитостена у лестницы</h2>
+        <p class="work-description">Зелёная плоскость идёт вдоль прохода. На общем плане видно, как она соседствует с лестницей и рельефной стеной.</p>
+      </article>
+      <article class="work">
+        <button type="button" data-work="arch" aria-label="Фотографии цветочной арки"><img src="photos/arch.jpg" alt="Красно-малиновая цветочная арка вокруг двери" loading="lazy"><span class="tile-open" aria-hidden="true">↗</span></button>
+        <p class="label">02 / Вход</p><h2>Цветочная арка</h2>
+        <p class="work-description">Цветы, зелень и декоративные шляпы обрамляют дверной проём. Общие планы показывают арку в контексте фасада.</p>
+      </article>
+      <article class="work work-wide">
+        <button type="button" data-work="seating" aria-label="Фотографии озеленения посадочной зоны"><img src="photos/seating.jpg" alt="Деревянные кашпо с зеленью между столами" loading="lazy"><span class="tile-open" aria-hidden="true">↗</span></button>
+        <p class="label">03 / Зонирование</p><h2>Зелень между посадочными местами</h2>
+        <p class="work-description">Длинные деревянные кашпо с растениями разделяют посадочные места и повторяются вдоль зала.</p>
+      </article>
+      <article class="work">
+        <button type="button" data-work="window" aria-label="Фотография композиции вокруг окна"><img src="photos/window.jpg" alt="Цветочное обрамление окна рядом со входом" loading="lazy"><span class="tile-open" aria-hidden="true">↗</span></button>
+        <p class="label">04 / Фасад</p><h2>Композиция вокруг окна</h2>
+        <p class="work-description">Две вертикальные композиции обрамляют окно. Внизу — розовые цветы и жёлтые скворечники.</p>
+      </article>
+      <article class="work">
+        <button type="button" data-work="planter" aria-label="Фотография композиции в светлом кашпо"><img src="photos/planter.jpg" alt="Зелень в длинном светлом кашпо у дивана" loading="lazy"><span class="tile-open" aria-hidden="true">↗</span></button>
+        <p class="label">05 / Деталь интерьера</p><h2>Композиция в светлом кашпо</h2>
+        <p class="work-description">С верхней точки видно, как плотно собрана листва и как композиция повторяет форму кашпо.</p>
+      </article>
+    </section>
+    <section class="visit">
+      <h2>Хотите увидеть вживую<span>?</span></h2>
+      <p>Договоримся о встрече на объекте. На месте можно рассмотреть материалы, увидеть композицию в масштабе и заодно поговорить о том, что подошло бы вашему пространству.</p>
+    </section>
+  </main>
+  <footer class="footer">
+    <a class="brand" href="index.html" aria-label="БЕЗ КОРНЕЙ, главная"><img src="bez-portal-dark.svg?v=atelier-greening" alt=""></a>
+    <span>Искусственное озеленение</span>
+    <a href="index.html">На главную ↗</a>
+  </footer>
+  <dialog id="gallery" aria-labelledby="gallery-title">
+    <div class="gallery-head"><h2 id="gallery-title"></h2><form method="dialog"><button class="gallery-button" aria-label="Закрыть">×</button></form></div>
+    <figure><img id="gallery-photo" alt=""><figcaption id="gallery-caption"></figcaption></figure>
+    <div class="gallery-controls"><button type="button" class="gallery-button" id="gallery-prev" aria-label="Предыдущий кадр">←</button><span id="gallery-count" aria-live="polite"></span><button type="button" class="gallery-button" id="gallery-next" aria-label="Следующий кадр">→</button></div>
+  </dialog>
+</body>
+</html>

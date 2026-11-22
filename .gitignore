@@ -1,0 +1,12 @@
+node_modules/
+.venv/
+__pycache__/
+.env*
+!.env.example
+sketches/approved-gif-frames/
+
+*.zip
+*.bundle
+*.log
+Thumbs.db
+.DS_Store
