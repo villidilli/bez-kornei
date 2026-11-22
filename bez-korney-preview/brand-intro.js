@@ -60,7 +60,7 @@ const core=smooth(t,1.45,2.05);ctx.lineWidth=3.4;ctx.lineCap='butt';
 if(core>0){ctx.beginPath();ctx.moveTo(2,25);ctx.lineTo(10,25);ctx.lineTo(10+23*core,25-25*core);ctx.moveTo(10,25);ctx.lineTo(10+25*core,25+23*core);ctx.stroke();}
 ctx.restore();
 const growth=smooth(t,3.15,3.6);if(growth>0){ctx.save();ctx.translate(431,48);ctx.scale(growth,growth);ctx.translate(-5,9);ctx.fillStyle=accent;ctx.fill(leaf);ctx.strokeStyle=paper;ctx.lineWidth=1.1;ctx.lineCap='round';ctx.stroke(veins);ctx.restore()}
-const subtitle=smooth(t,3.5,3.95);ctx.restore();ctx.globalAlpha=subtitle;ctx.fillStyle=ink;ctx.font='300 '+Math.max(10,Math.min(18,width*.021))+'px monospace';ctx.textAlign='center';ctx.fillText('ателье искусственного озеленения',width/2,height*.744);const ruleUnit=Math.min((width-40)/460,(height-70)/190),ruleWidth=418*ruleUnit,ruleY=height/2-8+44.95575*ruleUnit;ctx.strokeStyle='#b8b2a7';ctx.lineWidth=.7;ctx.beginPath();ctx.moveTo((width-ruleWidth)/2,ruleY);ctx.lineTo((width+ruleWidth)/2,ruleY);ctx.stroke();ctx.globalAlpha=1;
+const subtitle=smooth(t,3.5,3.95);ctx.restore();ctx.globalAlpha=subtitle;ctx.fillStyle=ink;ctx.save();ctx.font='400 '+Math.max(12,Math.min(22,width*.028))+'px "Cormorant Garamond", Georgia, serif';ctx.textAlign='center';if('letterSpacing' in ctx)ctx.letterSpacing='0.7px';ctx.fillText('ателье искусственного озеленения',width/2,height*.744,width*.86);ctx.restore();const ruleUnit=Math.min((width-40)/460,(height-70)/190),ruleWidth=418*ruleUnit,ruleY=height/2-8+44.95575*ruleUnit;ctx.strokeStyle='#b8b2a7';ctx.lineWidth=.7;ctx.beginPath();ctx.moveTo((width-ruleWidth)/2,ruleY);ctx.lineTo((width+ruleWidth)/2,ruleY);ctx.stroke();ctx.globalAlpha=1;
 
 }
 
@@ -72,5 +72,7 @@ function frame(now){
 }
 const resize=new ResizeObserver(()=>draw(time));resize.observe(canvas);
 draw(0);frameId=requestAnimationFrame(frame);
+// Repaint if the local typeface finishes loading after the animation.
+document.fonts?.load('400 20px "Cormorant Garamond"','ателье искусственного озеленения').then(()=>draw(time)).catch(()=>{});
 return ()=>{cancelAnimationFrame(frameId);resize.disconnect()};
 };

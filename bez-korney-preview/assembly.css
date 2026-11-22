@@ -1,3 +1,4 @@
+@font-face{font-family:'Cormorant Garamond';src:url('assets/fonts/cormorant-garamond-regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
 html{scroll-behavior:smooth;background:#f3f0e9;scrollbar-gutter:stable}body{margin:0;color:#20211d;font-family:Arial,sans-serif}*{box-sizing:border-box}img{max-width:100%}button,a,summary{-webkit-tap-highlight-color:transparent}:focus-visible{outline:2px solid #ac3d2e;outline-offset:5px}
 .skip-link{position:absolute;left:12px;top:-70px;z-index:100;background:#f3f0e9;color:#20211d;padding:12px}.skip-link:focus{top:12px}
 #page-content{max-width:1440px;margin:auto}
@@ -19,11 +20,11 @@ html{scroll-behavior:smooth;background:#f3f0e9;scrollbar-gutter:stable}body{marg
 
 #page-content .contact-email{display:block;margin-top:10px;overflow-wrap:anywhere;text-underline-offset:5px}
 /* Compact intro composition; scale artwork proportionally with side breathing room. */
-#assembly-intro{--intro-width:min(80vw,142.2222dvh,1024px)}
+#assembly-intro{--intro-width:min(70vw,124.4444dvh,900px)}
 #assembly-intro canvas,#assembly-intro img{display:block;width:var(--intro-width);height:auto;max-height:80dvh;object-fit:contain}
 #assembly-intro canvas{aspect-ratio:16/9}
-#assembly-intro img[src*=".svg"]{width:min(68vw,900px);max-height:68dvh}
-@media(max-width:600px){#assembly-intro{--intro-width:min(92vw,142.2222dvh)}#assembly-intro img[src*=".svg"]{width:76vw;max-height:68dvh}}
+#assembly-intro img[src*=".svg"]{width:min(60vw,800px);max-height:60dvh}
+@media(max-width:600px){#assembly-intro{--intro-width:min(84vw,124.4444dvh)}#assembly-intro img[src*=".svg"]{width:68vw;max-height:60dvh}}
 
 #page-content .brand-lockup{display:inline-flex;flex-direction:column;align-items:flex-start;gap:14px;margin:0;color:#20211d;letter-spacing:normal}
 #page-content .brand-lockup .brand-lockup-logo{display:block;width:150px;height:auto;max-width:100%}
